@@ -1,0 +1,133 @@
+{
+  "id": "office",
+  "label": "Office",
+  "slug": "office",
+  "items": [
+    {
+      "id": "desk_office",
+      "label": "Office desk",
+      "cat": "Office",
+      "widthMm": 1600,
+      "depthMm": 800,
+      "heightMm": 750,
+      "color": "#6a7080"
+    },
+    {
+      "id": "desk_reception",
+      "label": "Reception desk",
+      "cat": "Office",
+      "widthMm": 2000,
+      "depthMm": 800,
+      "heightMm": 1100,
+      "color": "#6a7080"
+    },
+    {
+      "id": "credenza",
+      "label": "Credenza",
+      "cat": "Office",
+      "widthMm": 1800,
+      "depthMm": 450,
+      "heightMm": 800,
+      "color": "#6a7080"
+    },
+    {
+      "id": "filing_lateral",
+      "label": "Lateral file",
+      "cat": "Office",
+      "widthMm": 900,
+      "depthMm": 500,
+      "heightMm": 750,
+      "color": "#6a7080"
+    },
+    {
+      "id": "filing_2drawer",
+      "label": "2-drawer file",
+      "cat": "Office",
+      "widthMm": 400,
+      "depthMm": 600,
+      "heightMm": 700,
+      "color": "#6a7080"
+    },
+    {
+      "id": "bookshelf_office",
+      "label": "Office bookshelf",
+      "cat": "Office",
+      "widthMm": 1000,
+      "depthMm": 350,
+      "heightMm": 2000,
+      "color": "#6a7080"
+    },
+    {
+      "id": "conference_table_6",
+      "label": "Conference table 6",
+      "cat": "Office",
+      "widthMm": 2400,
+      "depthMm": 1200,
+      "heightMm": 750,
+      "color": "#6a7080"
+    },
+    {
+      "id": "conference_table_10",
+      "label": "Conference table 10",
+      "cat": "Office",
+      "widthMm": 3600,
+      "depthMm": 1400,
+      "heightMm": 750,
+      "color": "#6a7080"
+    },
+    {
+      "id": "whiteboard",
+      "label": "Whiteboard",
+      "cat": "Office",
+      "widthMm": 1800,
+      "depthMm": 50,
+      "heightMm": 1200,
+      "color": "#6a7080"
+    },
+    {
+      "id": "printer_stand",
+      "label": "Printer stand",
+      "cat": "Office",
+      "widthMm": 600,
+      "depthMm": 500,
+      "heightMm": 800,
+      "color": "#6a7080"
+    },
+    {
+      "id": "mail_slot",
+      "label": "Mail / cubby unit",
+      "cat": "Office",
+      "widthMm": 1200,
+      "depthMm": 400,
+      "heightMm": 1600,
+      "color": "#6a7080"
+    },
+    {
+      "id": "partition",
+      "label": "Office partition",
+      "cat": "Office",
+      "widthMm": 1200,
+      "depthMm": 80,
+      "heightMm": 1500,
+      "color": "#6a7080"
+    },
+    {
+      "id": "locker_bank",
+      "label": "Locker bank",
+      "cat": "Office",
+      "widthMm": 1200,
+      "depthMm": 500,
+      "heightMm": 1800,
+      "color": "#6a7080"
+    },
+    {
+      "id": "drafting_table",
+      "label": "Drafting table",
+      "cat": "Office",
+      "widthMm": 1400,
+      "depthMm": 900,
+      "heightMm": 900,
+      "color": "#6a7080"
+    }
+  ]
+}

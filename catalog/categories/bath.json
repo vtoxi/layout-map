@@ -1,0 +1,187 @@
+{
+  "id": "bath",
+  "label": "Bath",
+  "slug": "bath",
+  "items": [
+    {
+      "id": "bathtub",
+      "label": "Bathtub",
+      "cat": "Bath",
+      "widthMm": 1700,
+      "depthMm": 750,
+      "heightMm": 550,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "toilet",
+      "label": "Toilet",
+      "cat": "Bath",
+      "widthMm": 400,
+      "depthMm": 650,
+      "heightMm": 780,
+      "color": "#e8ecf0"
+    },
+    {
+      "id": "vanity",
+      "label": "Bath vanity",
+      "cat": "Bath",
+      "widthMm": 900,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "shower",
+      "label": "Shower",
+      "cat": "Bath",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 2000,
+      "color": "#a8c0d0"
+    },
+    {
+      "id": "bathtub_freestanding",
+      "label": "Freestanding tub",
+      "cat": "Bath",
+      "widthMm": 1700,
+      "depthMm": 800,
+      "heightMm": 600,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "bathtub_corner",
+      "label": "Corner tub",
+      "cat": "Bath",
+      "widthMm": 1400,
+      "depthMm": 1400,
+      "heightMm": 550,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "bathtub_short",
+      "label": "Short tub",
+      "cat": "Bath",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 550,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "toilet_compact",
+      "label": "Compact toilet",
+      "cat": "Bath",
+      "widthMm": 380,
+      "depthMm": 600,
+      "heightMm": 750,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "toilet_wall",
+      "label": "Wall-hung toilet",
+      "cat": "Bath",
+      "widthMm": 380,
+      "depthMm": 550,
+      "heightMm": 780,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "bidet",
+      "label": "Bidet",
+      "cat": "Bath",
+      "widthMm": 400,
+      "depthMm": 600,
+      "heightMm": 780,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "vanity_single",
+      "label": "Single vanity",
+      "cat": "Bath",
+      "widthMm": 750,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "vanity_double",
+      "label": "Double vanity",
+      "cat": "Bath",
+      "widthMm": 1500,
+      "depthMm": 550,
+      "heightMm": 850,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "vanity_floating",
+      "label": "Floating vanity",
+      "cat": "Bath",
+      "widthMm": 1000,
+      "depthMm": 480,
+      "heightMm": 600,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "shower_corner",
+      "label": "Corner shower",
+      "cat": "Bath",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 2000,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "shower_rect",
+      "label": "Rect shower",
+      "cat": "Bath",
+      "widthMm": 1200,
+      "depthMm": 900,
+      "heightMm": 2000,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "shower_walkin",
+      "label": "Walk-in shower",
+      "cat": "Bath",
+      "widthMm": 1600,
+      "depthMm": 900,
+      "heightMm": 2000,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "shower_steam",
+      "label": "Steam shower",
+      "cat": "Bath",
+      "widthMm": 1200,
+      "depthMm": 1200,
+      "heightMm": 2100,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "bath_stool",
+      "label": "Bath stool",
+      "cat": "Bath",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 450,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "towel_rack_unit",
+      "label": "Towel cabinet",
+      "cat": "Bath",
+      "widthMm": 500,
+      "depthMm": 350,
+      "heightMm": 1600,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "laundry_hamper",
+      "label": "Laundry hamper",
+      "cat": "Bath",
+      "widthMm": 450,
+      "depthMm": 450,
+      "heightMm": 700,
+      "color": "#d8dde6"
+    }
+  ]
+}

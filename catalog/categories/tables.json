@@ -1,0 +1,286 @@
+{
+  "id": "tables",
+  "label": "Tables",
+  "slug": "tables",
+  "items": [
+    {
+      "id": "coffee_table",
+      "label": "Coffee table",
+      "cat": "Tables",
+      "widthMm": 1100,
+      "depthMm": 600,
+      "heightMm": 400,
+      "color": "#8a7050"
+    },
+    {
+      "id": "side_table",
+      "label": "Side table",
+      "cat": "Tables",
+      "widthMm": 500,
+      "depthMm": 500,
+      "heightMm": 550,
+      "color": "#8a7050"
+    },
+    {
+      "id": "nest_tables",
+      "label": "Nesting tables",
+      "cat": "Tables",
+      "widthMm": 550,
+      "depthMm": 450,
+      "heightMm": 450,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_table",
+      "label": "Dining table",
+      "cat": "Tables",
+      "widthMm": 1600,
+      "depthMm": 900,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "round_table",
+      "label": "Round table",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 1200,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "desk",
+      "label": "Desk",
+      "cat": "Tables",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 750,
+      "color": "#7a6848"
+    },
+    {
+      "id": "console",
+      "label": "Console table",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 350,
+      "heightMm": 800,
+      "color": "#8a7050"
+    },
+    {
+      "id": "bar_table",
+      "label": "Bar / pub table",
+      "cat": "Tables",
+      "widthMm": 800,
+      "depthMm": 800,
+      "heightMm": 1050,
+      "color": "#7a6848"
+    },
+    {
+      "id": "kitchen_island",
+      "label": "Kitchen island",
+      "cat": "Tables",
+      "widthMm": 1800,
+      "depthMm": 900,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "doors": 2,
+      "isCabinet": true
+    },
+    {
+      "id": "dining_table_4",
+      "label": "Dining table (4)",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 800,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_table_6",
+      "label": "Dining table (6)",
+      "cat": "Tables",
+      "widthMm": 1800,
+      "depthMm": 900,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_table_8",
+      "label": "Dining table (8)",
+      "cat": "Tables",
+      "widthMm": 2200,
+      "depthMm": 1000,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_table_10",
+      "label": "Dining table (10)",
+      "cat": "Tables",
+      "widthMm": 2800,
+      "depthMm": 1100,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_oval",
+      "label": "Oval dining table",
+      "cat": "Tables",
+      "widthMm": 2000,
+      "depthMm": 1000,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "dining_square",
+      "label": "Square dining table",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 1200,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "coffee_table_round",
+      "label": "Round coffee table",
+      "cat": "Tables",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 400,
+      "color": "#8a7050"
+    },
+    {
+      "id": "coffee_table_large",
+      "label": "Large coffee table",
+      "cat": "Tables",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 400,
+      "color": "#8a7050"
+    },
+    {
+      "id": "coffee_table_glass",
+      "label": "Glass coffee table",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 400,
+      "color": "#8a7050"
+    },
+    {
+      "id": "side_table_tall",
+      "label": "Tall side table",
+      "cat": "Tables",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 650,
+      "color": "#8a7050"
+    },
+    {
+      "id": "side_table_drum",
+      "label": "Drum side table",
+      "cat": "Tables",
+      "widthMm": 450,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#8a7050"
+    },
+    {
+      "id": "console_narrow",
+      "label": "Narrow console",
+      "cat": "Tables",
+      "widthMm": 1400,
+      "depthMm": 300,
+      "heightMm": 800,
+      "color": "#8a7050"
+    },
+    {
+      "id": "console_wide",
+      "label": "Wide console",
+      "cat": "Tables",
+      "widthMm": 1800,
+      "depthMm": 400,
+      "heightMm": 800,
+      "color": "#8a7050"
+    },
+    {
+      "id": "desk_compact",
+      "label": "Compact desk",
+      "cat": "Tables",
+      "widthMm": 1000,
+      "depthMm": 600,
+      "heightMm": 750,
+      "color": "#7a6848"
+    },
+    {
+      "id": "desk_executive",
+      "label": "Executive desk",
+      "cat": "Tables",
+      "widthMm": 1800,
+      "depthMm": 800,
+      "heightMm": 750,
+      "color": "#7a6848"
+    },
+    {
+      "id": "desk_l_shape",
+      "label": "L-shape desk",
+      "cat": "Tables",
+      "widthMm": 1600,
+      "depthMm": 1400,
+      "heightMm": 750,
+      "color": "#7a6848"
+    },
+    {
+      "id": "desk_standing",
+      "label": "Standing desk",
+      "cat": "Tables",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 1100,
+      "color": "#7a6848"
+    },
+    {
+      "id": "bar_table_rect",
+      "label": "Bar table (rect)",
+      "cat": "Tables",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 1050,
+      "color": "#8a7050"
+    },
+    {
+      "id": "picnic_table",
+      "label": "Picnic table",
+      "cat": "Tables",
+      "widthMm": 1800,
+      "depthMm": 1500,
+      "heightMm": 750,
+      "color": "#8a7050"
+    },
+    {
+      "id": "kitchen_island_small",
+      "label": "Kitchen island S",
+      "cat": "Tables",
+      "widthMm": 1400,
+      "depthMm": 800,
+      "heightMm": 900,
+      "hasDoors": true,
+      "doors": 2,
+      "isCabinet": true,
+      "color": "#a89070"
+    },
+    {
+      "id": "kitchen_island_large",
+      "label": "Kitchen island L",
+      "cat": "Tables",
+      "widthMm": 2400,
+      "depthMm": 1000,
+      "heightMm": 900,
+      "hasDoors": true,
+      "doors": 2,
+      "isCabinet": true,
+      "color": "#a89070"
+    }
+  ]
+}

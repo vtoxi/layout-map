@@ -1,0 +1,542 @@
+{
+  "id": "storage",
+  "label": "Storage",
+  "slug": "storage",
+  "items": [
+    {
+      "id": "cabinet",
+      "label": "Kitchen cabinet",
+      "cat": "Storage",
+      "widthMm": 900,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true
+    },
+    {
+      "id": "wardrobe",
+      "label": "Wardrobe",
+      "cat": "Storage",
+      "widthMm": 1800,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 3
+    },
+    {
+      "id": "dresser",
+      "label": "Dresser",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#8a7355"
+    },
+    {
+      "id": "chest",
+      "label": "Chest of drawers",
+      "cat": "Storage",
+      "widthMm": 800,
+      "depthMm": 450,
+      "heightMm": 1100,
+      "color": "#8a7355"
+    },
+    {
+      "id": "bookshelf",
+      "label": "Bookshelf",
+      "cat": "Storage",
+      "widthMm": 900,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "bookshelf_narrow",
+      "label": "Narrow shelf",
+      "cat": "Storage",
+      "widthMm": 450,
+      "depthMm": 300,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "nightstand",
+      "label": "Nightstand",
+      "cat": "Storage",
+      "widthMm": 450,
+      "depthMm": 400,
+      "heightMm": 550,
+      "color": "#9a8060"
+    },
+    {
+      "id": "tvstand",
+      "label": "TV stand",
+      "cat": "Storage",
+      "widthMm": 1600,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#5a6068"
+    },
+    {
+      "id": "sideboard",
+      "label": "Sideboard",
+      "cat": "Storage",
+      "widthMm": 1800,
+      "depthMm": 450,
+      "heightMm": 800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "shoe_rack",
+      "label": "Shoe cabinet",
+      "cat": "Storage",
+      "widthMm": 1000,
+      "depthMm": 350,
+      "heightMm": 1100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 2
+    },
+    {
+      "id": "filing",
+      "label": "Filing cabinet",
+      "cat": "Storage",
+      "widthMm": 450,
+      "depthMm": 600,
+      "heightMm": 1300,
+      "color": "#6a7080"
+    },
+    {
+      "id": "cabinet_300",
+      "label": "Base cabinet 300mm",
+      "cat": "Storage",
+      "widthMm": 300,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "wallcab_300",
+      "label": "Wall cabinet 300mm",
+      "cat": "Storage",
+      "widthMm": 300,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "cabinet_450",
+      "label": "Base cabinet 450mm",
+      "cat": "Storage",
+      "widthMm": 450,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "wallcab_450",
+      "label": "Wall cabinet 450mm",
+      "cat": "Storage",
+      "widthMm": 450,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "cabinet_600",
+      "label": "Base cabinet 600mm",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "wallcab_600",
+      "label": "Wall cabinet 600mm",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "cabinet_750",
+      "label": "Base cabinet 750mm",
+      "cat": "Storage",
+      "widthMm": 750,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 2
+    },
+    {
+      "id": "wallcab_750",
+      "label": "Wall cabinet 750mm",
+      "cat": "Storage",
+      "widthMm": 750,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 2
+    },
+    {
+      "id": "cabinet_1050",
+      "label": "Base cabinet 1050mm",
+      "cat": "Storage",
+      "widthMm": 1050,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 2
+    },
+    {
+      "id": "wallcab_1050",
+      "label": "Wall cabinet 1050mm",
+      "cat": "Storage",
+      "widthMm": 1050,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 2
+    },
+    {
+      "id": "cabinet_1200",
+      "label": "Base cabinet 1200mm",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 3
+    },
+    {
+      "id": "wallcab_1200",
+      "label": "Wall cabinet 1200mm",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 3
+    },
+    {
+      "id": "cabinet_1500",
+      "label": "Base cabinet 1500mm",
+      "cat": "Storage",
+      "widthMm": 1500,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 3
+    },
+    {
+      "id": "wallcab_1500",
+      "label": "Wall cabinet 1500mm",
+      "cat": "Storage",
+      "widthMm": 1500,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 3
+    },
+    {
+      "id": "cabinet_1800",
+      "label": "Base cabinet 1800mm",
+      "cat": "Storage",
+      "widthMm": 1800,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 4
+    },
+    {
+      "id": "wallcab_1800",
+      "label": "Wall cabinet 1800mm",
+      "cat": "Storage",
+      "widthMm": 1800,
+      "depthMm": 350,
+      "heightMm": 720,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 4
+    },
+    {
+      "id": "wardrobe_1200",
+      "label": "Wardrobe 1200mm",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 2
+    },
+    {
+      "id": "wardrobe_1500",
+      "label": "Wardrobe 1500mm",
+      "cat": "Storage",
+      "widthMm": 1500,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 3
+    },
+    {
+      "id": "wardrobe_2000",
+      "label": "Wardrobe 2000mm",
+      "cat": "Storage",
+      "widthMm": 2000,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 3
+    },
+    {
+      "id": "wardrobe_2400",
+      "label": "Wardrobe 2400mm",
+      "cat": "Storage",
+      "widthMm": 2400,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 4
+    },
+    {
+      "id": "dresser_600",
+      "label": "Dresser 600mm",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#8a7355"
+    },
+    {
+      "id": "dresser_1000",
+      "label": "Dresser 1000mm",
+      "cat": "Storage",
+      "widthMm": 1000,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#8a7355"
+    },
+    {
+      "id": "dresser_1400",
+      "label": "Dresser 1400mm",
+      "cat": "Storage",
+      "widthMm": 1400,
+      "depthMm": 500,
+      "heightMm": 850,
+      "color": "#8a7355"
+    },
+    {
+      "id": "bookshelf_600",
+      "label": "Bookshelf 600mm",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "bookshelf_800",
+      "label": "Bookshelf 800mm",
+      "cat": "Storage",
+      "widthMm": 800,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "bookshelf_1200",
+      "label": "Bookshelf 1200mm",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "bookshelf_1500",
+      "label": "Bookshelf 1500mm",
+      "cat": "Storage",
+      "widthMm": 1500,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#7a6548"
+    },
+    {
+      "id": "nightstand_400",
+      "label": "Nightstand 400mm",
+      "cat": "Storage",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 550,
+      "color": "#9a8060"
+    },
+    {
+      "id": "nightstand_550",
+      "label": "Nightstand 550mm",
+      "cat": "Storage",
+      "widthMm": 550,
+      "depthMm": 400,
+      "heightMm": 550,
+      "color": "#9a8060"
+    },
+    {
+      "id": "tvstand_1200",
+      "label": "TV stand 1200mm",
+      "cat": "Storage",
+      "widthMm": 1200,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#5a6068"
+    },
+    {
+      "id": "tvstand_1400",
+      "label": "TV stand 1400mm",
+      "cat": "Storage",
+      "widthMm": 1400,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#5a6068"
+    },
+    {
+      "id": "tvstand_1800",
+      "label": "TV stand 1800mm",
+      "cat": "Storage",
+      "widthMm": 1800,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#5a6068"
+    },
+    {
+      "id": "tvstand_2000",
+      "label": "TV stand 2000mm",
+      "cat": "Storage",
+      "widthMm": 2000,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#5a6068"
+    },
+    {
+      "id": "tall_unit",
+      "label": "Tall pantry unit",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "corner_cabinet",
+      "label": "Corner cabinet",
+      "cat": "Storage",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 900,
+      "color": "#a89070",
+      "hasDoors": true,
+      "isCabinet": true,
+      "doors": 1
+    },
+    {
+      "id": "linen_closet",
+      "label": "Linen closet",
+      "cat": "Storage",
+      "widthMm": 900,
+      "depthMm": 600,
+      "heightMm": 2100,
+      "color": "#8a7355",
+      "hasDoors": true,
+      "doors": 2
+    },
+    {
+      "id": "media_console",
+      "label": "Media console",
+      "cat": "Storage",
+      "widthMm": 2000,
+      "depthMm": 450,
+      "heightMm": 550,
+      "color": "#5a6068",
+      "hasDoors": true,
+      "doors": 3
+    },
+    {
+      "id": "display_cabinet",
+      "label": "Display cabinet",
+      "cat": "Storage",
+      "widthMm": 1000,
+      "depthMm": 400,
+      "heightMm": 1900,
+      "color": "#7a6548",
+      "hasDoors": true,
+      "doors": 2
+    },
+    {
+      "id": "wine_rack",
+      "label": "Wine rack",
+      "cat": "Storage",
+      "widthMm": 600,
+      "depthMm": 350,
+      "heightMm": 1600,
+      "color": "#5a4030"
+    },
+    {
+      "id": "locker",
+      "label": "Locker / cubby",
+      "cat": "Storage",
+      "widthMm": 400,
+      "depthMm": 500,
+      "heightMm": 1800,
+      "color": "#6a7080",
+      "hasDoors": true,
+      "doors": 1
+    }
+  ]
+}

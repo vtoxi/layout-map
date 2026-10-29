@@ -1,0 +1,89 @@
+{
+  "uid": "apartment15_map",
+  "component": "oh-layout-page",
+  "config": {
+    "label": "Apartment15 \u00b7 3D Map",
+    "sidebar": true
+  },
+  "tags": [],
+  "props": {
+    "parameters": [],
+    "parameterGroups": []
+  },
+  "slots": {
+    "default": [
+      {
+        "component": "oh-block",
+        "config": {
+          "title": "3D walkable map"
+        },
+        "slots": {
+          "default": [
+            {
+              "component": "oh-grid-row",
+              "slots": {
+                "default": [
+                  {
+                    "component": "oh-grid-col",
+                    "config": {
+                      "width": "100%"
+                    },
+                    "slots": {
+                      "default": [
+                        {
+                          "component": "oh-webframe-card",
+                          "config": {
+                            "src": "http://192.168.1.100:8765/preview3d.html?model=mdl_b446edcaf7&view=1",
+                            "height": 720,
+                            "noBorder": true,
+                            "title": "3D"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "component": "oh-block",
+        "config": {
+          "title": "2D plan"
+        },
+        "slots": {
+          "default": [
+            {
+              "component": "oh-grid-row",
+              "slots": {
+                "default": [
+                  {
+                    "component": "oh-grid-col",
+                    "config": {
+                      "width": "100%"
+                    },
+                    "slots": {
+                      "default": [
+                        {
+                          "component": "oh-webframe-card",
+                          "config": {
+                            "src": "http://192.168.1.100:8765/index.html?model=mdl_b446edcaf7",
+                            "height": 520,
+                            "noBorder": true,
+                            "title": "2D"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

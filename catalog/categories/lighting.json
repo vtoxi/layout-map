@@ -1,0 +1,115 @@
+{
+  "id": "lighting",
+  "label": "Lighting",
+  "slug": "lighting",
+  "items": [
+    {
+      "id": "floor_lamp_arc",
+      "label": "Arc floor lamp",
+      "cat": "Lighting",
+      "widthMm": 400,
+      "depthMm": 1400,
+      "heightMm": 1900,
+      "color": "#c9a227"
+    },
+    {
+      "id": "floor_lamp_tripod",
+      "label": "Tripod floor lamp",
+      "cat": "Lighting",
+      "widthMm": 450,
+      "depthMm": 450,
+      "heightMm": 1600,
+      "color": "#c9a227"
+    },
+    {
+      "id": "floor_lamp_torch",
+      "label": "Torchiere",
+      "cat": "Lighting",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 1800,
+      "color": "#c9a227"
+    },
+    {
+      "id": "table_lamp",
+      "label": "Table lamp",
+      "cat": "Lighting",
+      "widthMm": 300,
+      "depthMm": 300,
+      "heightMm": 550,
+      "color": "#c9a227"
+    },
+    {
+      "id": "table_lamp_large",
+      "label": "Large table lamp",
+      "cat": "Lighting",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 700,
+      "color": "#c9a227"
+    },
+    {
+      "id": "desk_lamp",
+      "label": "Desk lamp",
+      "cat": "Lighting",
+      "widthMm": 250,
+      "depthMm": 400,
+      "heightMm": 450,
+      "color": "#c9a227"
+    },
+    {
+      "id": "pendant_furnish",
+      "label": "Pendant (place)",
+      "cat": "Lighting",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 800,
+      "color": "#c9a227"
+    },
+    {
+      "id": "chandelier_furnish",
+      "label": "Chandelier (place)",
+      "cat": "Lighting",
+      "widthMm": 800,
+      "depthMm": 800,
+      "heightMm": 900,
+      "color": "#c9a227"
+    },
+    {
+      "id": "wall_sconce_furnish",
+      "label": "Wall sconce",
+      "cat": "Lighting",
+      "widthMm": 200,
+      "depthMm": 150,
+      "heightMm": 400,
+      "color": "#c9a227"
+    },
+    {
+      "id": "lantern",
+      "label": "Lantern",
+      "cat": "Lighting",
+      "widthMm": 300,
+      "depthMm": 300,
+      "heightMm": 500,
+      "color": "#c9a227"
+    },
+    {
+      "id": "candle_stand",
+      "label": "Candle stand",
+      "cat": "Lighting",
+      "widthMm": 250,
+      "depthMm": 250,
+      "heightMm": 900,
+      "color": "#c9a227"
+    },
+    {
+      "id": "strip_light_stand",
+      "label": "Light stand",
+      "cat": "Lighting",
+      "widthMm": 300,
+      "depthMm": 300,
+      "heightMm": 1800,
+      "color": "#c9a227"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "lounge",
+  "label": "Lounge",
+  "slug": "lounge",
+  "items": [
+    {
+      "id": "sofa",
+      "label": "Sofa (3-seat)",
+      "cat": "Lounge",
+      "widthMm": 2200,
+      "depthMm": 900,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_loveseat",
+      "label": "Loveseat",
+      "cat": "Lounge",
+      "widthMm": 1500,
+      "depthMm": 850,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_sectional",
+      "label": "Sectional L",
+      "cat": "Lounge",
+      "widthMm": 2800,
+      "depthMm": 1600,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_corner",
+      "label": "Corner sofa",
+      "cat": "Lounge",
+      "widthMm": 2400,
+      "depthMm": 2400,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "chaise",
+      "label": "Chaise lounge",
+      "cat": "Lounge",
+      "widthMm": 700,
+      "depthMm": 1600,
+      "heightMm": 800,
+      "color": "#6a7585"
+    },
+    {
+      "id": "recliner",
+      "label": "Recliner",
+      "cat": "Lounge",
+      "widthMm": 850,
+      "depthMm": 950,
+      "heightMm": 1000,
+      "color": "#6a7585"
+    },
+    {
+      "id": "armchair",
+      "label": "Armchair",
+      "cat": "Lounge",
+      "widthMm": 800,
+      "depthMm": 800,
+      "heightMm": 850,
+      "color": "#6a7585"
+    },
+    {
+      "id": "ottoman",
+      "label": "Ottoman",
+      "cat": "Lounge",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 400,
+      "color": "#6a7585"
+    },
+    {
+      "id": "sofa_2seat",
+      "label": "Sofa (2-seat)",
+      "cat": "Lounge",
+      "widthMm": 1800,
+      "depthMm": 900,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_4seat",
+      "label": "Sofa (4-seat)",
+      "cat": "Lounge",
+      "widthMm": 2800,
+      "depthMm": 950,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_sleeper",
+      "label": "Sleeper sofa",
+      "cat": "Lounge",
+      "widthMm": 2200,
+      "depthMm": 950,
+      "heightMm": 900,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_chesterfield",
+      "label": "Chesterfield",
+      "cat": "Lounge",
+      "widthMm": 2100,
+      "depthMm": 900,
+      "heightMm": 800,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_midcentury",
+      "label": "Mid-century sofa",
+      "cat": "Lounge",
+      "widthMm": 2000,
+      "depthMm": 850,
+      "heightMm": 800,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_modular_3",
+      "label": "Modular sofa 3pc",
+      "cat": "Lounge",
+      "widthMm": 3000,
+      "depthMm": 1000,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_u_shape",
+      "label": "U-shape sofa",
+      "cat": "Lounge",
+      "widthMm": 3200,
+      "depthMm": 2200,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_chaise_left",
+      "label": "Sofa + chaise L",
+      "cat": "Lounge",
+      "widthMm": 2600,
+      "depthMm": 1600,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "sofa_chaise_right",
+      "label": "Sofa + chaise R",
+      "cat": "Lounge",
+      "widthMm": 2600,
+      "depthMm": 1600,
+      "heightMm": 850,
+      "color": "#5a6a7a"
+    },
+    {
+      "id": "armchair_700",
+      "label": "Armchair 700mm",
+      "cat": "Lounge",
+      "widthMm": 700,
+      "depthMm": 700,
+      "heightMm": 850,
+      "color": "#6a7585"
+    },
+    {
+      "id": "armchair_900",
+      "label": "Armchair 900mm",
+      "cat": "Lounge",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 850,
+      "color": "#6a7585"
+    },
+    {
+      "id": "armchair_1000",
+      "label": "Armchair 1000mm",
+      "cat": "Lounge",
+      "widthMm": 1000,
+      "depthMm": 1000,
+      "heightMm": 850,
+      "color": "#6a7585"
+    },
+    {
+      "id": "accent_chair",
+      "label": "Accent chair",
+      "cat": "Lounge",
+      "widthMm": 750,
+      "depthMm": 750,
+      "heightMm": 900,
+      "color": "#a85a40"
+    },
+    {
+      "id": "wingback",
+      "label": "Wingback chair",
+      "cat": "Lounge",
+      "widthMm": 800,
+      "depthMm": 850,
+      "heightMm": 1100,
+      "color": "#2a3a5a"
+    },
+    {
+      "id": "rocking_chair",
+      "label": "Rocking chair",
+      "cat": "Lounge",
+      "widthMm": 700,
+      "depthMm": 900,
+      "heightMm": 1000,
+      "color": "#8a7050"
+    },
+    {
+      "id": "bean_bag",
+      "label": "Bean bag",
+      "cat": "Lounge",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 700,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "floor_cushion",
+      "label": "Floor cushion",
+      "cat": "Lounge",
+      "widthMm": 700,
+      "depthMm": 700,
+      "heightMm": 200,
+      "color": "#c89090"
+    },
+    {
+      "id": "pouf",
+      "label": "Pouf",
+      "cat": "Lounge",
+      "widthMm": 500,
+      "depthMm": 500,
+      "heightMm": 400,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "ottoman_large",
+      "label": "Large ottoman",
+      "cat": "Lounge",
+      "widthMm": 1000,
+      "depthMm": 600,
+      "heightMm": 420,
+      "color": "#6a7585"
+    },
+    {
+      "id": "love_seat_modern",
+      "label": "Modern loveseat",
+      "cat": "Lounge",
+      "widthMm": 1400,
+      "depthMm": 800,
+      "heightMm": 800,
+      "color": "#3a4048"
+    }
+  ]
+}

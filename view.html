@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Apartment preview · shared</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f1115; --panel: #161a21; --text: #e8eaed; --muted: #8b939e;
+      --line: #2a313c; --accent: #4f9fd4;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
+      font-family: "IBM Plex Sans", system-ui, sans-serif; }
+    #boot {
+      min-height: 100%; display: grid; place-items: center; padding: 24px; text-align: center;
+    }
+    #boot h1 { font-size: 18px; margin: 0 0 8px; }
+    #boot p { color: var(--muted); font-size: 13px; max-width: 360px; margin: 0 auto 16px; line-height: 1.45; }
+    #boot a { color: var(--accent); }
+    .err { color: #f0c0c0; }
+  </style>
+</head>
+<body>
+  <div id="boot">
+    <div>
+      <h1>Opening shared preview…</h1>
+      <p id="msg">Loading secure link</p>
+    </div>
+  </div>
+  <script>
+    (async function () {
+      const params = new URLSearchParams(location.search);
+      const t = params.get("t") || params.get("share");
+      const msg = document.getElementById("msg");
+      const title = document.querySelector("#boot h1");
+      function fail(text) {
+        title.textContent = "Link unavailable";
+        msg.className = "err";
+        msg.innerHTML = text + '<br/><br/><a href="./index.html">Open CAD editor</a>';
+      }
+      if (!t) {
+        fail("Missing share token. Ask the owner for a Publish link.");
+        return;
+      }
+      try {
+        const r = await fetch("./api/shares/" + encodeURIComponent(t), { cache: "no-store" });
+        let data = null;
+        try { data = await r.json(); } catch { /* */ }
+        if (r.status === 410 || data?.code === "share_expired") {
+          fail("This share link has expired.");
+          return;
+        }
+        if (!r.ok || !data?.ok) {
+          fail("This share link was revoked or is invalid.");
+          return;
+        }
+        const name = data.model?.name ? String(data.model.name) : "Apartment";
+        title.textContent = name;
+        msg.textContent = "Opening walkable 3D…";
+        location.replace("./preview3d.html?t=" + encodeURIComponent(t) + "&view=1");
+      } catch (err) {
+        fail("Could not reach the server. Check your connection and try again.");
+      }
+    })();
+  </script>
+</body>
+</html>

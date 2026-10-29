@@ -1,0 +1,169 @@
+{
+  "id": "sleep",
+  "label": "Sleep",
+  "slug": "sleep",
+  "items": [
+    {
+      "id": "bed",
+      "label": "Bed (queen)",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 2100,
+      "heightMm": 500,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_single",
+      "label": "Bed (single)",
+      "cat": "Sleep",
+      "widthMm": 1000,
+      "depthMm": 2000,
+      "heightMm": 450,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_king",
+      "label": "Bed (king)",
+      "cat": "Sleep",
+      "widthMm": 1800,
+      "depthMm": 2100,
+      "heightMm": 520,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_twin",
+      "label": "Bed (twin)",
+      "cat": "Sleep",
+      "widthMm": 900,
+      "depthMm": 1900,
+      "heightMm": 450,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "crib",
+      "label": "Crib",
+      "cat": "Sleep",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 900,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "bed_california",
+      "label": "Bed (California king)",
+      "cat": "Sleep",
+      "widthMm": 1830,
+      "depthMm": 2130,
+      "heightMm": 520,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_super_king",
+      "label": "Bed (super king)",
+      "cat": "Sleep",
+      "widthMm": 2000,
+      "depthMm": 2000,
+      "heightMm": 520,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_double",
+      "label": "Bed (double)",
+      "cat": "Sleep",
+      "widthMm": 1400,
+      "depthMm": 2000,
+      "heightMm": 480,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_platform",
+      "label": "Platform bed",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 2100,
+      "heightMm": 350,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_storage",
+      "label": "Storage bed",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 2100,
+      "heightMm": 550,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_canopy",
+      "label": "Canopy bed",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 2100,
+      "heightMm": 2000,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_daybed",
+      "label": "Daybed",
+      "cat": "Sleep",
+      "widthMm": 2000,
+      "depthMm": 1000,
+      "heightMm": 800,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_bunk",
+      "label": "Bunk bed",
+      "cat": "Sleep",
+      "widthMm": 1000,
+      "depthMm": 2000,
+      "heightMm": 1700,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_murphy",
+      "label": "Murphy bed",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 400,
+      "heightMm": 2100,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bed_futon",
+      "label": "Futon",
+      "cat": "Sleep",
+      "widthMm": 1400,
+      "depthMm": 2000,
+      "heightMm": 400,
+      "color": "#6a7a8a"
+    },
+    {
+      "id": "bassinet",
+      "label": "Bassinet",
+      "cat": "Sleep",
+      "widthMm": 800,
+      "depthMm": 450,
+      "heightMm": 800,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "mattress_queen",
+      "label": "Mattress (queen)",
+      "cat": "Sleep",
+      "widthMm": 1600,
+      "depthMm": 2000,
+      "heightMm": 250,
+      "color": "#d8dde6"
+    },
+    {
+      "id": "mattress_king",
+      "label": "Mattress (king)",
+      "cat": "Sleep",
+      "widthMm": 1800,
+      "depthMm": 2000,
+      "heightMm": 250,
+      "color": "#d8dde6"
+    }
+  ]
+}

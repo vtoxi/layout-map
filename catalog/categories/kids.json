@@ -1,0 +1,115 @@
+{
+  "id": "kids",
+  "label": "Kids",
+  "slug": "kids",
+  "items": [
+    {
+      "id": "kids_bed",
+      "label": "Kids bed",
+      "cat": "Kids",
+      "widthMm": 900,
+      "depthMm": 1900,
+      "heightMm": 500,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "kids_bunk",
+      "label": "Kids bunk",
+      "cat": "Kids",
+      "widthMm": 1000,
+      "depthMm": 2000,
+      "heightMm": 1600,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "toddler_bed",
+      "label": "Toddler bed",
+      "cat": "Kids",
+      "widthMm": 800,
+      "depthMm": 1600,
+      "heightMm": 400,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "changing_table",
+      "label": "Changing table",
+      "cat": "Kids",
+      "widthMm": 900,
+      "depthMm": 550,
+      "heightMm": 1000,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "kids_desk",
+      "label": "Kids desk",
+      "cat": "Kids",
+      "widthMm": 1000,
+      "depthMm": 550,
+      "heightMm": 650,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "kids_chair",
+      "label": "Kids chair",
+      "cat": "Kids",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 550,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "toy_chest",
+      "label": "Toy chest",
+      "cat": "Kids",
+      "widthMm": 800,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "kids_bookshelf",
+      "label": "Kids bookshelf",
+      "cat": "Kids",
+      "widthMm": 800,
+      "depthMm": 300,
+      "heightMm": 1200,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "play_table",
+      "label": "Play table",
+      "cat": "Kids",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 500,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "teepee",
+      "label": "Play teepee",
+      "cat": "Kids",
+      "widthMm": 1200,
+      "depthMm": 1200,
+      "heightMm": 1500,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "kids_wardrobe",
+      "label": "Kids wardrobe",
+      "cat": "Kids",
+      "widthMm": 1000,
+      "depthMm": 500,
+      "heightMm": 1600,
+      "color": "#c4b59a"
+    },
+    {
+      "id": "rocking_horse",
+      "label": "Rocking horse",
+      "cat": "Kids",
+      "widthMm": 800,
+      "depthMm": 400,
+      "heightMm": 700,
+      "color": "#c4b59a"
+    }
+  ]
+}

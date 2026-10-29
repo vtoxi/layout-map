@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "colors": [
+    {
+      "id": "cream",
+      "hex": "#e8dcc8",
+      "label": "Cream"
+    },
+    {
+      "id": "linen",
+      "hex": "#c4b59a",
+      "label": "Linen"
+    },
+    {
+      "id": "charcoal",
+      "hex": "#3a4048",
+      "label": "Charcoal"
+    },
+    {
+      "id": "navy",
+      "hex": "#2a3a5a",
+      "label": "Navy"
+    },
+    {
+      "id": "sage",
+      "hex": "#6a7a68",
+      "label": "Sage"
+    },
+    {
+      "id": "terracotta",
+      "hex": "#a85a40",
+      "label": "Terracotta"
+    },
+    {
+      "id": "blush",
+      "hex": "#c89090",
+      "label": "Blush"
+    },
+    {
+      "id": "white",
+      "hex": "#f0f2f5",
+      "label": "White"
+    },
+    {
+      "id": "wood",
+      "hex": "#8a7050",
+      "label": "Wood"
+    },
+    {
+      "id": "walnut",
+      "hex": "#5a4030",
+      "label": "Walnut"
+    },
+    {
+      "id": "slate",
+      "hex": "#5a6a7a",
+      "label": "Slate"
+    },
+    {
+      "id": "gold",
+      "hex": "#c9a227",
+      "label": "Gold"
+    }
+  ],
+  "curtainStyles": [
+    {
+      "id": "cloth",
+      "label": "Cloth drapes"
+    },
+    {
+      "id": "sheer",
+      "label": "Sheer / voile"
+    },
+    {
+      "id": "vertical",
+      "label": "Vertical blinds"
+    },
+    {
+      "id": "horizontal",
+      "label": "Horizontal blinds"
+    },
+    {
+      "id": "roman",
+      "label": "Roman shade"
+    },
+    {
+      "id": "panel",
+      "label": "Panel track"
+    }
+  ],
+  "foldModes": [
+    {
+      "id": "both",
+      "label": "Draw both sides"
+    },
+    {
+      "id": "left",
+      "label": "Stack left"
+    },
+    {
+      "id": "right",
+      "label": "Stack right"
+    }
+  ]
+}
