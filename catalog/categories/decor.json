@@ -1,0 +1,277 @@
+{
+  "id": "decor",
+  "label": "Decor",
+  "slug": "decor",
+  "items": [
+    {
+      "id": "rug",
+      "label": "Rug",
+      "cat": "Decor",
+      "widthMm": 2000,
+      "depthMm": 1400,
+      "heightMm": 20,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "runner",
+      "label": "Runner rug",
+      "cat": "Decor",
+      "widthMm": 800,
+      "depthMm": 2400,
+      "heightMm": 15,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "plant",
+      "label": "Plant",
+      "cat": "Decor",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 1200,
+      "color": "#3d7a4a"
+    },
+    {
+      "id": "mirror",
+      "label": "Mirror",
+      "cat": "Decor",
+      "widthMm": 800,
+      "depthMm": 50,
+      "heightMm": 1200,
+      "color": "#a8c4d8"
+    },
+    {
+      "id": "floor_lamp",
+      "label": "Floor lamp",
+      "cat": "Decor",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 1600,
+      "color": "#c9a227"
+    },
+    {
+      "id": "tv",
+      "label": "TV / screen",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 80,
+      "heightMm": 800,
+      "color": "#1a1c20"
+    },
+    {
+      "id": "wall_art",
+      "label": "Wall art",
+      "cat": "Decor",
+      "widthMm": 900,
+      "depthMm": 40,
+      "heightMm": 700,
+      "color": "#c89090"
+    },
+    {
+      "id": "rug_small",
+      "label": "Small rug",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 1000,
+      "heightMm": 15,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "rug_large",
+      "label": "Large rug",
+      "cat": "Decor",
+      "widthMm": 2800,
+      "depthMm": 2000,
+      "heightMm": 20,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "rug_round",
+      "label": "Round rug",
+      "cat": "Decor",
+      "widthMm": 1800,
+      "depthMm": 1800,
+      "heightMm": 20,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "rug_persian",
+      "label": "Persian rug",
+      "cat": "Decor",
+      "widthMm": 2400,
+      "depthMm": 1600,
+      "heightMm": 25,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "runner_long",
+      "label": "Long runner",
+      "cat": "Decor",
+      "widthMm": 800,
+      "depthMm": 3000,
+      "heightMm": 15,
+      "color": "#7a4a3a"
+    },
+    {
+      "id": "plant_tall",
+      "label": "Tall plant",
+      "cat": "Decor",
+      "widthMm": 500,
+      "depthMm": 500,
+      "heightMm": 1800,
+      "color": "#3d7a4a"
+    },
+    {
+      "id": "plant_small",
+      "label": "Small plant",
+      "cat": "Decor",
+      "widthMm": 300,
+      "depthMm": 300,
+      "heightMm": 600,
+      "color": "#3d7a4a"
+    },
+    {
+      "id": "plant_wide",
+      "label": "Wide planter",
+      "cat": "Decor",
+      "widthMm": 800,
+      "depthMm": 400,
+      "heightMm": 900,
+      "color": "#3d7a4a"
+    },
+    {
+      "id": "mirror_full",
+      "label": "Full-length mirror",
+      "cat": "Decor",
+      "widthMm": 600,
+      "depthMm": 50,
+      "heightMm": 1800,
+      "color": "#a8c4d8"
+    },
+    {
+      "id": "mirror_round",
+      "label": "Round mirror",
+      "cat": "Decor",
+      "widthMm": 800,
+      "depthMm": 50,
+      "heightMm": 800,
+      "color": "#a8c4d8"
+    },
+    {
+      "id": "mirror_wide",
+      "label": "Wide mirror",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 50,
+      "heightMm": 900,
+      "color": "#a8c4d8"
+    },
+    {
+      "id": "tv_55",
+      "label": "TV 55\"",
+      "cat": "Decor",
+      "widthMm": 1230,
+      "depthMm": 80,
+      "heightMm": 720,
+      "color": "#1a1c20"
+    },
+    {
+      "id": "tv_65",
+      "label": "TV 65\"",
+      "cat": "Decor",
+      "widthMm": 1450,
+      "depthMm": 80,
+      "heightMm": 840,
+      "color": "#1a1c20"
+    },
+    {
+      "id": "tv_75",
+      "label": "TV 75\"",
+      "cat": "Decor",
+      "widthMm": 1680,
+      "depthMm": 80,
+      "heightMm": 960,
+      "color": "#1a1c20"
+    },
+    {
+      "id": "tv_stand_mount",
+      "label": "TV on stand",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 400,
+      "heightMm": 1200,
+      "color": "#1a1c20"
+    },
+    {
+      "id": "wall_art_large",
+      "label": "Large wall art",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 40,
+      "heightMm": 1000,
+      "color": "#c89090"
+    },
+    {
+      "id": "wall_art_diptych",
+      "label": "Diptych art",
+      "cat": "Decor",
+      "widthMm": 1600,
+      "depthMm": 40,
+      "heightMm": 800,
+      "color": "#c89090"
+    },
+    {
+      "id": "wall_art_small",
+      "label": "Small wall art",
+      "cat": "Decor",
+      "widthMm": 500,
+      "depthMm": 40,
+      "heightMm": 500,
+      "color": "#c89090"
+    },
+    {
+      "id": "sculpture",
+      "label": "Sculpture",
+      "cat": "Decor",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 900,
+      "color": "#c89090"
+    },
+    {
+      "id": "vase_tall",
+      "label": "Tall vase",
+      "cat": "Decor",
+      "widthMm": 300,
+      "depthMm": 300,
+      "heightMm": 800,
+      "color": "#c89090"
+    },
+    {
+      "id": "fireplace",
+      "label": "Fireplace",
+      "cat": "Decor",
+      "widthMm": 1400,
+      "depthMm": 500,
+      "heightMm": 1200,
+      "color": "#5a4030"
+    },
+    {
+      "id": "piano",
+      "label": "Upright piano",
+      "cat": "Decor",
+      "widthMm": 1500,
+      "depthMm": 600,
+      "heightMm": 1300,
+      "color": "#5a4030"
+    },
+    {
+      "id": "bookshelf_low",
+      "label": "Low bookcase",
+      "cat": "Decor",
+      "widthMm": 1600,
+      "depthMm": 350,
+      "heightMm": 900,
+      "color": "#5a4030"
+    }
+  ]
+}

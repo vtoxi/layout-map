@@ -1,0 +1,187 @@
+{
+  "id": "seating",
+  "label": "Seating",
+  "slug": "seating",
+  "items": [
+    {
+      "id": "chair",
+      "label": "Side chair",
+      "cat": "Seating",
+      "widthMm": 450,
+      "depthMm": 500,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "dining_chair",
+      "label": "Dining chair",
+      "cat": "Seating",
+      "widthMm": 480,
+      "depthMm": 520,
+      "heightMm": 950,
+      "color": "#6a6050"
+    },
+    {
+      "id": "office_chair",
+      "label": "Office chair",
+      "cat": "Seating",
+      "widthMm": 650,
+      "depthMm": 650,
+      "heightMm": 1100,
+      "color": "#3a4048"
+    },
+    {
+      "id": "bench",
+      "label": "Bench",
+      "cat": "Seating",
+      "widthMm": 1400,
+      "depthMm": 400,
+      "heightMm": 450,
+      "color": "#6a6050"
+    },
+    {
+      "id": "barstool",
+      "label": "Bar stool",
+      "cat": "Seating",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 1050,
+      "color": "#6a6050"
+    },
+    {
+      "id": "dining_chair_uphol",
+      "label": "Upholstered dining chair",
+      "cat": "Seating",
+      "widthMm": 500,
+      "depthMm": 550,
+      "heightMm": 950,
+      "color": "#6a6050"
+    },
+    {
+      "id": "dining_chair_metal",
+      "label": "Metal dining chair",
+      "cat": "Seating",
+      "widthMm": 450,
+      "depthMm": 500,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "side_chair_wood",
+      "label": "Wood side chair",
+      "cat": "Seating",
+      "widthMm": 450,
+      "depthMm": 480,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "guest_chair",
+      "label": "Guest chair",
+      "cat": "Seating",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "task_chair",
+      "label": "Task chair",
+      "cat": "Seating",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 1000,
+      "color": "#3a4048"
+    },
+    {
+      "id": "gaming_chair",
+      "label": "Gaming chair",
+      "cat": "Seating",
+      "widthMm": 700,
+      "depthMm": 700,
+      "heightMm": 1200,
+      "color": "#3a4048"
+    },
+    {
+      "id": "stool_counter",
+      "label": "Counter stool",
+      "cat": "Seating",
+      "widthMm": 400,
+      "depthMm": 400,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "stool_backless",
+      "label": "Backless stool",
+      "cat": "Seating",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 750,
+      "color": "#6a6050"
+    },
+    {
+      "id": "bench_dining",
+      "label": "Dining bench",
+      "cat": "Seating",
+      "widthMm": 1600,
+      "depthMm": 400,
+      "heightMm": 450,
+      "color": "#6a6050"
+    },
+    {
+      "id": "bench_entry",
+      "label": "Entry bench",
+      "cat": "Seating",
+      "widthMm": 1200,
+      "depthMm": 400,
+      "heightMm": 450,
+      "color": "#6a6050"
+    },
+    {
+      "id": "bench_storage",
+      "label": "Storage bench",
+      "cat": "Seating",
+      "widthMm": 1200,
+      "depthMm": 450,
+      "heightMm": 500,
+      "color": "#6a6050"
+    },
+    {
+      "id": "banquette",
+      "label": "Banquette",
+      "cat": "Seating",
+      "widthMm": 2000,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "pew_bench",
+      "label": "Pew / long bench",
+      "cat": "Seating",
+      "widthMm": 2400,
+      "depthMm": 450,
+      "heightMm": 900,
+      "color": "#6a6050"
+    },
+    {
+      "id": "barstool_350",
+      "label": "Bar stool 350mm",
+      "cat": "Seating",
+      "widthMm": 350,
+      "depthMm": 350,
+      "heightMm": 1050,
+      "color": "#6a6050"
+    },
+    {
+      "id": "barstool_450",
+      "label": "Bar stool 450mm",
+      "cat": "Seating",
+      "widthMm": 450,
+      "depthMm": 450,
+      "heightMm": 1050,
+      "color": "#6a6050"
+    }
+  ]
+}

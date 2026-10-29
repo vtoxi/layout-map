@@ -1,0 +1,268 @@
+{
+  "id": "kitchen",
+  "label": "Kitchen",
+  "slug": "kitchen",
+  "items": [
+    {
+      "id": "fridge",
+      "label": "Refrigerator",
+      "cat": "Kitchen",
+      "widthMm": 700,
+      "depthMm": 700,
+      "heightMm": 1800,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "stove",
+      "label": "Stove / range",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "sink",
+      "label": "Kitchen sink",
+      "cat": "Kitchen",
+      "widthMm": 800,
+      "depthMm": 550,
+      "heightMm": 900,
+      "color": "#9aa3ae"
+    },
+    {
+      "id": "washer",
+      "label": "Washer",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#b0b8c2"
+    },
+    {
+      "id": "dishwasher",
+      "label": "Dishwasher",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#b0b8c2"
+    },
+    {
+      "id": "microwave",
+      "label": "Microwave",
+      "cat": "Kitchen",
+      "widthMm": 500,
+      "depthMm": 400,
+      "heightMm": 350,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "range_hood",
+      "label": "Range hood",
+      "cat": "Kitchen",
+      "widthMm": 700,
+      "depthMm": 500,
+      "heightMm": 600,
+      "color": "#9aa3ae"
+    },
+    {
+      "id": "fridge_french",
+      "label": "French-door fridge",
+      "cat": "Kitchen",
+      "widthMm": 900,
+      "depthMm": 750,
+      "heightMm": 1800,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "fridge_side",
+      "label": "Side-by-side fridge",
+      "cat": "Kitchen",
+      "widthMm": 900,
+      "depthMm": 750,
+      "heightMm": 1800,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "fridge_under",
+      "label": "Under-counter fridge",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "freezer",
+      "label": "Freezer",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 700,
+      "heightMm": 1700,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "stove_gas",
+      "label": "Gas range",
+      "cat": "Kitchen",
+      "widthMm": 760,
+      "depthMm": 700,
+      "heightMm": 920,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "stove_induction",
+      "label": "Induction range",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "cooktop",
+      "label": "Cooktop",
+      "cat": "Kitchen",
+      "widthMm": 760,
+      "depthMm": 550,
+      "heightMm": 100,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "oven_wall",
+      "label": "Wall oven",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "sink_double",
+      "label": "Double sink",
+      "cat": "Kitchen",
+      "widthMm": 900,
+      "depthMm": 550,
+      "heightMm": 900,
+      "color": "#9aa3ae"
+    },
+    {
+      "id": "sink_farm",
+      "label": "Farmhouse sink",
+      "cat": "Kitchen",
+      "widthMm": 900,
+      "depthMm": 600,
+      "heightMm": 950,
+      "color": "#9aa3ae"
+    },
+    {
+      "id": "sink_prep",
+      "label": "Prep sink",
+      "cat": "Kitchen",
+      "widthMm": 450,
+      "depthMm": 450,
+      "heightMm": 900,
+      "color": "#9aa3ae"
+    },
+    {
+      "id": "washer_front",
+      "label": "Front-load washer",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 650,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "dryer",
+      "label": "Dryer",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 650,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "washer_dryer_stack",
+      "label": "Stacked W/D",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 700,
+      "heightMm": 1800,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "dishwasher_panel",
+      "label": "Panel dishwasher",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "microwave_over",
+      "label": "Over-range microwave",
+      "cat": "Kitchen",
+      "widthMm": 760,
+      "depthMm": 450,
+      "heightMm": 400,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "microwave_drawer",
+      "label": "Microwave drawer",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 550,
+      "heightMm": 400,
+      "color": "#3a3e46"
+    },
+    {
+      "id": "range_hood_island",
+      "label": "Island range hood",
+      "cat": "Kitchen",
+      "widthMm": 900,
+      "depthMm": 600,
+      "heightMm": 700,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "range_hood_pro",
+      "label": "Pro range hood",
+      "cat": "Kitchen",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 800,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "trash_compactor",
+      "label": "Trash pull-out",
+      "cat": "Kitchen",
+      "widthMm": 450,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "wine_cooler",
+      "label": "Wine cooler",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 600,
+      "heightMm": 850,
+      "color": "#c8ced6"
+    },
+    {
+      "id": "espresso_station",
+      "label": "Espresso station",
+      "cat": "Kitchen",
+      "widthMm": 600,
+      "depthMm": 550,
+      "heightMm": 900,
+      "color": "#c8ced6"
+    }
+  ]
+}

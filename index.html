@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Apartment #15 · CAD Editor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./cad.css" />
+</head>
+<body>
+  <div id="app">
+    <div id="chrome">
+      <header id="topbar" aria-label="Application bar">
+        <div class="topbar-brand">
+          <span class="topbar-mark">A15</span>
+          <div class="topbar-titles">
+            <strong>Apartment #15</strong>
+            <span>CAD · layout map</span>
+          </div>
+        </div>
+
+        <div class="topbar-group" role="group" aria-label="Menus">
+          <div class="menu" data-menu="file">
+            <button type="button" class="menu-trigger" data-menu-toggle="file" aria-haspopup="true" aria-expanded="false">File</button>
+            <div class="menu-panel" role="menu">
+              <button type="button" data-act="save" role="menuitem">Save <span class="menu-kbd">⌘S</span></button>
+              <button type="button" data-act="export" role="menuitem">Export JSON</button>
+              <button type="button" data-act="import" role="menuitem">Import JSON…</button>
+              <div class="menu-sep"></div>
+              <button type="button" data-act="reset" role="menuitem">Reset / restore</button>
+            </div>
+          </div>
+          <div class="menu" data-menu="model">
+            <button type="button" class="menu-trigger" data-menu-toggle="model" aria-haspopup="true" aria-expanded="false">Model</button>
+            <div class="menu-panel" role="menu">
+              <button type="button" data-act="model-new" role="menuitem">New model</button>
+              <button type="button" data-act="model-dup" role="menuitem">Duplicate</button>
+              <button type="button" data-act="model-rename" role="menuitem">Rename…</button>
+              <button type="button" data-act="model-version" role="menuitem">Save version…</button>
+              <button type="button" data-act="model-share" role="menuitem">Publish share link…</button>
+              <button type="button" data-act="model-export-pack" role="menuitem">Export pack (ZIP)…</button>
+              <button type="button" data-act="openhab-toggle" role="menuitem" id="ohSyncMenu">openHAB sync…</button>
+              <div class="menu-sep"></div>
+              <button type="button" data-act="auth-login" role="menuitem">Sign in / Register…</button>
+              <button type="button" data-act="auth-logout" role="menuitem">Sign out</button>
+              <div class="menu-sep"></div>
+              <button type="button" data-act="model-delete" class="danger-btn" role="menuitem">Delete model</button>
+            </div>
+          </div>
+          <div class="menu" data-menu="edit">
+            <button type="button" class="menu-trigger" data-menu-toggle="edit" aria-haspopup="true" aria-expanded="false">Edit</button>
+            <div class="menu-panel" role="menu">
+              <button type="button" data-act="undo" role="menuitem">Undo <span class="menu-kbd">⌘Z</span></button>
+              <button type="button" data-act="redo" role="menuitem">Redo <span class="menu-kbd">⌘Y</span></button>
+              <div class="menu-sep"></div>
+              <button type="button" data-act="upload-image" role="menuitem">Trace image…</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="topbar-group" role="group" aria-label="Quick actions">
+          <button type="button" data-act="save" title="Save model (Ctrl+S)">Save</button>
+          <button type="button" data-act="undo" title="Undo (Ctrl+Z)">Undo</button>
+          <button type="button" data-act="redo" title="Redo (Ctrl+Y)">Redo</button>
+        </div>
+
+        <div class="topbar-group" role="group" aria-label="Mode">
+          <button type="button" data-act="mode-cad" class="mode active">CAD</button>
+          <button type="button" data-act="mode-operate" class="mode">Operate</button>
+          <button type="button" data-act="snap-toggle">Snap</button>
+        </div>
+
+        <div class="topbar-group units-bar" role="group" aria-label="Units">
+          <button type="button" data-act="units-metric" class="mode active">mm</button>
+          <button type="button" data-act="units-imperial" class="mode">in</button>
+        </div>
+
+        <div class="topbar-spacer"></div>
+        <a class="topbar-preview" id="openPreview3d" href="./preview3d.html" target="_blank" rel="noopener">3D preview →</a>
+      </header>
+
+      <div id="subbar" aria-label="Model &amp; version">
+        <span class="subbar-label">Active</span>
+        <div class="subbar-selects">
+          <label class="models-user" title="Model owner">
+            <span>User</span>
+            <input id="modelUser" type="text" maxlength="64" placeholder="name" />
+          </label>
+          <select id="modelSelect" title="Your models" aria-label="Model"></select>
+          <select id="versionSelect" title="Versions" aria-label="Version"></select>
+        </div>
+        <div class="topbar-group" style="border-left:0;padding-left:0;margin-left:auto">
+          <button type="button" data-act="model-version" title="Save a version snapshot">Version</button>
+          <button type="button" data-act="model-new" title="Create new model">New</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="workspace">
+      <nav id="tools" aria-label="CAD tools"></nav>
+      <div id="stage">
+        <div id="banner" class="hidden"></div>
+        <div id="svgWrap"><svg id="plan"></svg></div>
+        <div id="statusbar">
+          <span id="statTool">Select</span>
+          <span id="statSnap">Snap 50mm</span>
+          <span id="statCursor">0, 0</span>
+          <span id="statMsg">Ready</span>
+        </div>
+        <div id="toasts" aria-live="polite"></div>
+        <button type="button" class="panel-edge-tab" id="toolsEdgeTab" data-act="toggle-tools" title="Show tools">Tools</button>
+        <button type="button" class="panel-edge-tab" id="sidebarEdgeTab" data-act="toggle-sidebar" title="Show properties">Props</button>
+      </div>
+      <aside id="sidebar">
+        <div class="sidebar-head">
+          <div class="sidebar-head-text">
+            <h1>Properties</h1>
+            <p class="sub">Edit selection · layers · objects</p>
+          </div>
+          <button type="button" class="panel-collapse-btn" data-act="toggle-sidebar" title="Collapse panel" aria-label="Collapse properties">›</button>
+        </div>
+        <div class="sidebar-body">
+          <div id="inspector"></div>
+          <h2>Layers</h2>
+          <div id="layers"></div>
+          <h2>Objects</h2>
+          <div id="objList"></div>
+          <p class="hint">
+            Compact tools on the left · hover for name &amp; shortcut.<br/>
+            Right-click for context menu · Shift-click / marquee multi-select · ⌘G group<br/>
+            Layers are freeform (add / rename / reorder / move objects) · Del delete · Ctrl+Z/Y · Space+drag pan
+          </p>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <input id="fileImport" type="file" accept="application/json,.json" hidden />
+  <input id="fileImage" type="file" accept="image/*" hidden />
+  <div id="ctxMenu" role="menu" hidden></div>
+  <div id="modal" class="modal hidden" aria-hidden="true">
+    <div class="modal-backdrop" data-modal-dismiss></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <h2 id="modalTitle">Dialog</h2>
+      <div id="modalBody" class="modal-body"></div>
+      <div class="modal-actions">
+        <button type="button" class="ghost" data-modal-dismiss>Cancel</button>
+        <button type="button" class="primary" id="modalOk">OK</button>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="./cad.js"></script>
+</body>
+</html>

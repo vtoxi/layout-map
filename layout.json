@@ -1,0 +1,1741 @@
+{
+  "version": 2,
+  "updatedAt": "2026-08-29T09:16:47.107Z",
+  "gridMm": 50,
+  "snapMm": 50,
+  "units": "imperial",
+  "wallHeightMm": 3048,
+  "wallThicknessMm": 254,
+  "flooring": "marble",
+  "layers": [
+    {
+      "id": "ly_ref",
+      "name": "Reference",
+      "kind": "images",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_rooms",
+      "name": "Rooms",
+      "kind": "rooms",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_walls",
+      "name": "Walls",
+      "kind": "walls",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_openings",
+      "name": "Openings",
+      "kind": "openings",
+      "visible": false,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_doors",
+      "name": "Doors",
+      "kind": "doors",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_devices",
+      "name": "Devices",
+      "kind": "devices",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_windows",
+      "name": "Windows",
+      "kind": "windows",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    },
+    {
+      "id": "ly_furniture",
+      "name": "Furniture",
+      "kind": "furniture",
+      "visible": true,
+      "locked": false,
+      "opacity": 1
+    }
+  ],
+  "images": [
+    {
+      "id": "img_6yvmfax",
+      "layerId": "ly_ref",
+      "name": "Gemini_Generated_Image_3p9ppd3p9ppd3p9p.jpeg",
+      "src": "./assets/1787916180154_Gemini_Generated_Image_3p9ppd3p9ppd3p9p..jpg",
+      "x": 550,
+      "y": 3800,
+      "w": 9189.966555183946,
+      "h": 12490,
+      "opacity": 0.45
+    }
+  ],
+  "walls": [
+    {
+      "id": "w_su51trk",
+      "a": {
+        "x": 4450,
+        "y": 14800
+      },
+      "b": {
+        "x": 4450,
+        "y": 15000
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_5d0lmnt",
+      "a": {
+        "x": 4450,
+        "y": 15000
+      },
+      "b": {
+        "x": 850,
+        "y": 15000
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_w2fbtxe",
+      "a": {
+        "x": 850,
+        "y": 15000
+      },
+      "b": {
+        "x": 850,
+        "y": 13700
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_aa34amm",
+      "a": {
+        "x": 2150,
+        "y": 14900
+      },
+      "b": {
+        "x": 2150,
+        "y": 9600
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_du5hfxq",
+      "a": {
+        "x": 2050,
+        "y": 9600
+      },
+      "b": {
+        "x": 9500,
+        "y": 9600
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_qr62exv",
+      "a": {
+        "x": 4450,
+        "y": 14850
+      },
+      "b": {
+        "x": 4450,
+        "y": 9600
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_xxzdk2y",
+      "a": {
+        "x": 4500,
+        "y": 13750
+      },
+      "b": {
+        "x": 8300,
+        "y": 13750
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_ktrz1b6",
+      "a": {
+        "x": 8300,
+        "y": 13750
+      },
+      "b": {
+        "x": 8300,
+        "y": 9650
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_vqmjexu",
+      "a": {
+        "x": 6100,
+        "y": 9550
+      },
+      "b": {
+        "x": 6100,
+        "y": 5300
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_plv4ud6",
+      "a": {
+        "x": 3500,
+        "y": 9600
+      },
+      "b": {
+        "x": 3500,
+        "y": 5300
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_v1xjwk7",
+      "a": {
+        "x": 850,
+        "y": 9600
+      },
+      "b": {
+        "x": 2200,
+        "y": 9600
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_udd0d8d",
+      "a": {
+        "x": 2150,
+        "y": 12650
+      },
+      "b": {
+        "x": 4450,
+        "y": 12650
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_3wod03v",
+      "a": {
+        "x": 850,
+        "y": 13650
+      },
+      "b": {
+        "x": 2150,
+        "y": 13650
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_uphaoem",
+      "a": {
+        "x": 9500,
+        "y": 5300
+      },
+      "b": {
+        "x": 9500,
+        "y": 9550
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_agnxgbb",
+      "a": {
+        "x": 850,
+        "y": 9550
+      },
+      "b": {
+        "x": 850,
+        "y": 5300
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_vu4wgog",
+      "a": {
+        "x": 850,
+        "y": 5300
+      },
+      "b": {
+        "x": 3500,
+        "y": 5300
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_fkg5ybw",
+      "a": {
+        "x": 6100,
+        "y": 5300
+      },
+      "b": {
+        "x": 9500,
+        "y": 5300
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_z7vutzf",
+      "a": {
+        "x": 3500,
+        "y": 6000
+      },
+      "b": {
+        "x": 6100,
+        "y": 6000
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_konogn3",
+      "a": {
+        "x": 7450,
+        "y": 9550
+      },
+      "b": {
+        "x": 7450,
+        "y": 8150
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_224hk2q",
+      "a": {
+        "x": 7050,
+        "y": 8150
+      },
+      "b": {
+        "x": 9500,
+        "y": 8150
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_9b139nt",
+      "a": {
+        "x": 850,
+        "y": 8350
+      },
+      "b": {
+        "x": 3500,
+        "y": 8350
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    },
+    {
+      "id": "w_4x61asv",
+      "a": {
+        "x": 2350,
+        "y": 9550
+      },
+      "b": {
+        "x": 2350,
+        "y": 8350
+      },
+      "thickness": 120,
+      "height": 3048,
+      "elevMm": 0
+    }
+  ],
+  "openings": [
+    {
+      "id": "o_kl2co5i",
+      "wallId": "w_ktrz1b6",
+      "t0": 0.5914634146341463,
+      "t1": 0.8475609756097561,
+      "type": "window",
+      "heightMm": 1407,
+      "sillMm": 1055
+    },
+    {
+      "id": "o_sjcv199",
+      "wallId": "w_vu4wgog",
+      "t0": 0.5377358490566038,
+      "t1": 0.9339622641509433,
+      "type": "window",
+      "heightMm": 1407,
+      "sillMm": 1055
+    },
+    {
+      "id": "o_3fqxotf",
+      "wallId": "w_plv4ud6",
+      "t0": 0.3372093023255814,
+      "t1": 0.5232558139534884,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_22x2241",
+      "wallId": "w_qr62exv",
+      "t0": 0.45682387787650935,
+      "t1": 0.5907951697425381,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_7zsj7o1",
+      "wallId": "w_xxzdk2y",
+      "t0": 0.05263157894736843,
+      "t1": 0.2894736842105263,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_cm23qcb",
+      "wallId": "w_qr62exv",
+      "t0": 0.01872863978127136,
+      "t1": 0.15269993164730006,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_umr65j6",
+      "wallId": "w_aa34amm",
+      "t0": 0.03773613002192806,
+      "t1": 0.15094311526109083,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_y1c7qtc",
+      "wallId": "w_9b139nt",
+      "t0": 0.07547169811320756,
+      "t1": 0.30188679245283023,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_3byk5rf",
+      "wallId": "w_plv4ud6",
+      "t0": 0.06209851641987646,
+      "t1": 0.22488921409429508,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_r8dsfsr",
+      "wallId": "w_vqmjexu",
+      "t0": 0.07058823529411767,
+      "t1": 0.25882352941176473,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_bic9e2d",
+      "wallId": "w_v1xjwk7",
+      "t0": 0.36270590032396977,
+      "t1": 0.6743311367130672,
+      "type": "window",
+      "heightMm": 469,
+      "sillMm": 1876
+    },
+    {
+      "id": "o_24ywle1",
+      "wallId": "w_du5hfxq",
+      "t0": 0.872027840483252,
+      "t1": 0.953475515221446,
+      "type": "window",
+      "heightMm": 469,
+      "sillMm": 1876
+    },
+    {
+      "id": "o_xh2t0if",
+      "wallId": "w_fkg5ybw",
+      "t0": 0.05882352941176472,
+      "t1": 0.36764705882352944,
+      "type": "window",
+      "heightMm": 1407,
+      "sillMm": 1055
+    },
+    {
+      "id": "o_yvjddo9",
+      "wallId": "w_du5hfxq",
+      "t0": 0.3484182290755441,
+      "t1": 0.4570151287264693,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_pumm5p3",
+      "wallId": "w_224hk2q",
+      "t0": 0.24285714285714288,
+      "t1": 0.49183673469387756,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_gid4bol",
+      "wallId": "w_aa34amm",
+      "t0": 0.8396229693023123,
+      "t1": 0.9716977854146689,
+      "type": "door",
+      "heightMm": 2462,
+      "sillMm": 0
+    },
+    {
+      "id": "o_e8xi551",
+      "wallId": "w_3wod03v",
+      "t0": 0.3021375949067452,
+      "t1": 0.6866818795336093,
+      "type": "window",
+      "heightMm": 469,
+      "sillMm": 1876
+    },
+    {
+      "id": "o_ydhlsdf",
+      "wallId": "w_ktrz1b6",
+      "t0": 0.12804878048780488,
+      "t1": 0.38414634146341464,
+      "type": "window",
+      "heightMm": 1407,
+      "sillMm": 1055
+    },
+    {
+      "id": "o_106vha8",
+      "wallId": "w_uphaoem",
+      "t0": 0.22435500515995876,
+      "t1": 0.5050567595459237,
+      "type": "window",
+      "heightMm": 1407,
+      "sillMm": 1055
+    }
+  ],
+  "doors": [
+    {
+      "id": "door_4ykb6sk",
+      "openingId": "o_3fqxotf",
+      "hinge": {
+        "x": 3500,
+        "y": 8150
+      },
+      "len": 800,
+      "widthMm": 800,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_1v51ni3",
+      "openingId": "o_22x2241",
+      "hinge": {
+        "x": 4450,
+        "y": 12450
+      },
+      "len": 700,
+      "widthMm": 700,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": true,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_qct2n6l",
+      "openingId": "o_7zsj7o1",
+      "hinge": {
+        "x": 4700,
+        "y": 13750
+      },
+      "len": 900,
+      "widthMm": 900,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": 0,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_6vajvkj",
+      "openingId": "o_cm23qcb",
+      "hinge": {
+        "x": 4450,
+        "y": 14750
+      },
+      "len": 700,
+      "widthMm": 700,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_o1h1cq1",
+      "openingId": "o_umr65j6",
+      "hinge": {
+        "x": 2150,
+        "y": 14700
+      },
+      "len": 600,
+      "widthMm": 600,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_2jit8qp",
+      "openingId": "o_y1c7qtc",
+      "hinge": {
+        "x": 1050,
+        "y": 8350
+      },
+      "len": 600,
+      "widthMm": 600,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": 1,
+      "openAngle": 85,
+      "openDelta": 85,
+      "closedOffsetDeg": 0,
+      "closedDeg": 0,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_u6k0uky",
+      "openingId": "o_3byk5rf",
+      "hinge": {
+        "x": 3500,
+        "y": 9332.976379394531
+      },
+      "len": 700,
+      "widthMm": 700,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": -85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_fdt6tvv",
+      "openingId": "o_r8dsfsr",
+      "hinge": {
+        "x": 6100,
+        "y": 9250
+      },
+      "len": 800,
+      "widthMm": 800,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": 1,
+      "openAngle": 85,
+      "openDelta": 85,
+      "closedOffsetDeg": 0,
+      "closedDeg": -90,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_rzcvyu7",
+      "openingId": "o_yvjddo9",
+      "hinge": {
+        "x": 4650.2392578125,
+        "y": 9600
+      },
+      "len": 800,
+      "widthMm": 800,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": 1,
+      "openAngle": 85,
+      "openDelta": 85,
+      "closedOffsetDeg": 0,
+      "closedDeg": 0,
+      "open": true,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_z07boqp",
+      "openingId": "o_pumm5p3",
+      "hinge": {
+        "x": 7645,
+        "y": 8150
+      },
+      "len": 610,
+      "widthMm": 610,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "start",
+      "openSide": 1,
+      "openAngle": 85,
+      "openDelta": 85,
+      "closedOffsetDeg": 0,
+      "closedDeg": 0,
+      "open": false,
+      "label": "Swing (single)"
+    },
+    {
+      "id": "door_jytyh9a",
+      "openingId": "o_gid4bol",
+      "hinge": {
+        "x": 2150,
+        "y": 9750
+      },
+      "len": 700,
+      "widthMm": 700,
+      "heightMm": 2462,
+      "sillMm": 0,
+      "style": "swing",
+      "hingeAt": "end",
+      "openSide": -1,
+      "openAngle": 85,
+      "openDelta": 85,
+      "closedOffsetDeg": -90,
+      "closedDeg": 0,
+      "open": false,
+      "label": "Swing (single)"
+    }
+  ],
+  "windows": [
+    {
+      "id": "win_ww0q1gs",
+      "openingId": "o_kl2co5i",
+      "wallId": "w_ktrz1b6",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_8jvlhwh",
+      "openingId": "o_0yu9ruu",
+      "wallId": "w_ktrz1b6",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_hu9fhog",
+      "openingId": "o_sjcv199",
+      "wallId": "w_vu4wgog",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_k3i3lpp",
+      "openingId": "o_bic9e2d",
+      "wallId": "w_v1xjwk7",
+      "style": "sliding",
+      "widthMm": 400,
+      "heightMm": 469,
+      "sillMm": 1876,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "x_xnpioc3",
+      "openingId": "o_bic9e2d",
+      "wallId": "w_v1xjwk7",
+      "style": "awning",
+      "widthMm": 400,
+      "heightMm": 469,
+      "sillMm": 1876,
+      "label": "Awing",
+      "open": false
+    },
+    {
+      "id": "win_kcxmviz",
+      "openingId": "o_24ywle1",
+      "wallId": "w_du5hfxq",
+      "style": "awning",
+      "widthMm": 600,
+      "heightMm": 469,
+      "sillMm": 1876,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_q3kd7l4",
+      "openingId": "o_xh2t0if",
+      "wallId": "w_fkg5ybw",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Awning",
+      "open": false
+    },
+    {
+      "id": "win_9dscoq0",
+      "openingId": "o_e8xi551",
+      "wallId": "w_3wod03v",
+      "style": "awning",
+      "widthMm": 500,
+      "heightMm": 469,
+      "sillMm": 1876,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_bgtnzzh",
+      "openingId": "o_ydhlsdf",
+      "wallId": "w_ktrz1b6",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "x_valgwy7",
+      "openingId": "o_kl2co5i",
+      "wallId": "w_ktrz1b6",
+      "style": "sliding",
+      "widthMm": 1050,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    },
+    {
+      "id": "win_h04aw70",
+      "openingId": "o_106vha8",
+      "wallId": "w_uphaoem",
+      "style": "sliding",
+      "widthMm": 1200,
+      "heightMm": 1407,
+      "sillMm": 1055,
+      "label": "Sliding",
+      "open": false
+    }
+  ],
+  "lights": [
+    {
+      "id": "lt_3qqmi2n",
+      "x": 950,
+      "y": 7600,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 0,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_a1ckn55",
+      "x": 950,
+      "y": 6450,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_5g7htan",
+      "x": 3400,
+      "y": 6550,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_mp97p2t",
+      "x": 3300,
+      "y": 12000,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_fg19jyd",
+      "x": 3150,
+      "y": 10000,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_hjimrx7",
+      "x": 8200,
+      "y": 11700,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 3000,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_5f2ahfk",
+      "x": 7100,
+      "y": 13650,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_05v6h6v",
+      "x": 6900,
+      "y": 9700,
+      "on": false,
+      "label": "Light",
+      "shape": "tube",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_24jq9h6",
+      "x": 5850,
+      "y": 13850,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_exazek3",
+      "x": 3300,
+      "y": 12750,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_8gg33c4",
+      "x": 8900,
+      "y": 8050,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_uzyoakv",
+      "x": 8400,
+      "y": 5400,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_frm3ilg",
+      "x": 6200,
+      "y": 7050,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_nanfd4q",
+      "x": 8500,
+      "y": 8850,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_b0kzepy",
+      "x": 7900,
+      "y": 9500,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_3w0xe7s",
+      "x": 2950,
+      "y": 8950,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_8ldxa98",
+      "x": 1650,
+      "y": 8950,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_iz2388o",
+      "x": 1500,
+      "y": 14300,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_ij3xn61",
+      "x": 6000,
+      "y": 7300,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_3cnhzqt",
+      "x": 3600,
+      "y": 6950,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_vshtxr3",
+      "x": 4000,
+      "y": 9500,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_mtvcu4f",
+      "x": 3950,
+      "y": 5900,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    },
+    {
+      "id": "lt_qyonmic",
+      "x": 5650,
+      "y": 5900,
+      "on": false,
+      "label": "Light",
+      "shape": "bulb",
+      "colorTempK": 6500,
+      "intensity": 1,
+      "lengthMm": 1200,
+      "rotationDeg": 0,
+      "elevMm": 0,
+      "mountFrac": 0.9
+    }
+  ],
+  "fans": [
+    {
+      "id": "fn_9nw8ncp",
+      "x": 6800,
+      "y": 10750,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 0,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_yddy5a6",
+      "x": 6750,
+      "y": 12650,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_gvoowsi",
+      "x": 7800,
+      "y": 6800,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_ivky2gp",
+      "x": 2200,
+      "y": 6800,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_vkryhfm",
+      "x": 3300,
+      "y": 11100,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_tsexpg2",
+      "x": 4800,
+      "y": 8550,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_2jdc3qp",
+      "x": 4800,
+      "y": 6900,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_reyjmev",
+      "x": 3300,
+      "y": 13900,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 1000,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    },
+    {
+      "id": "fn_f2tt5ih",
+      "x": 4800,
+      "y": 5350,
+      "on": false,
+      "label": "Fan",
+      "blades": 3,
+      "diameterMm": 800,
+      "hangMm": 320,
+      "speed": 1,
+      "rotationDeg": 0
+    }
+  ],
+  "sockets": [],
+  "cabinets": [
+    {
+      "id": "cab_l691sf1",
+      "type": "cabinet",
+      "x": 1500,
+      "y": 5600,
+      "label": "Cabinet",
+      "kind": "base",
+      "doors": 2,
+      "drawers": 3,
+      "colorHex": "#a89070",
+      "widthMm": 1200,
+      "depthMm": 500,
+      "heightMm": 2100,
+      "rotationDeg": 180,
+      "open": false
+    },
+    {
+      "id": "cab_1a8jznp",
+      "type": "cabinet",
+      "x": 7200,
+      "y": 8850,
+      "label": "Cabinet",
+      "kind": "base",
+      "doors": 3,
+      "drawers": 3,
+      "colorHex": "#a89070",
+      "widthMm": 1350,
+      "depthMm": 450,
+      "heightMm": 2100,
+      "rotationDeg": 270,
+      "open": false
+    },
+    {
+      "id": "fur_f1fxtc9",
+      "type": "bed",
+      "x": 8250,
+      "y": 6500,
+      "label": "Bed (queen)",
+      "doors": 0,
+      "colorHex": "#6a7a8a",
+      "widthMm": 1600,
+      "depthMm": 2100,
+      "heightMm": 500,
+      "rotationDeg": 180,
+      "open": false
+    },
+    {
+      "id": "fur_nl11pme",
+      "type": "sofa",
+      "x": 7600,
+      "y": 10900,
+      "label": "Sofa (3-seat)",
+      "doors": 0,
+      "colorHex": "#5a6a7a",
+      "widthMm": 2200,
+      "depthMm": 900,
+      "heightMm": 850,
+      "rotationDeg": 90,
+      "open": false
+    },
+    {
+      "id": "fur_mg5r85h",
+      "type": "fridge",
+      "x": 3650,
+      "y": 10100,
+      "label": "Refrigerator",
+      "doors": 0,
+      "colorHex": "#c8ced6",
+      "widthMm": 700,
+      "depthMm": 700,
+      "heightMm": 1800,
+      "rotationDeg": 0,
+      "open": false
+    },
+    {
+      "id": "fur_wqpwynv",
+      "type": "curtain",
+      "x": 8150,
+      "y": 12700,
+      "label": "Curtain / blinds",
+      "doors": 0,
+      "curtainStyle": "cloth",
+      "foldMode": "both",
+      "colorHex": "#c4b59a",
+      "widthMm": 1200,
+      "depthMm": 80,
+      "heightMm": 2400,
+      "rotationDeg": 90,
+      "open": true
+    },
+    {
+      "id": "x_00u32si",
+      "type": "curtain",
+      "x": 8150,
+      "y": 10800,
+      "label": "Curtain / blinds",
+      "doors": 0,
+      "curtainStyle": "cloth",
+      "foldMode": "both",
+      "colorHex": "#c4b59a",
+      "widthMm": 1200,
+      "depthMm": 80,
+      "heightMm": 2400,
+      "rotationDeg": 90,
+      "open": false
+    }
+  ],
+  "rooms": [
+    {
+      "id": "rm_38n9k5o",
+      "label": "Room",
+      "points": [
+        {
+          "x": 3550,
+          "y": 9550
+        },
+        {
+          "x": 6050,
+          "y": 9550
+        },
+        {
+          "x": 6000,
+          "y": 6100
+        },
+        {
+          "x": 3550,
+          "y": 6050
+        }
+      ]
+    },
+    {
+      "id": "rm_73msuyh",
+      "label": "Room",
+      "points": [
+        {
+          "x": 6150,
+          "y": 9550
+        },
+        {
+          "x": 7000,
+          "y": 9550
+        },
+        {
+          "x": 7000,
+          "y": 8100
+        },
+        {
+          "x": 9450,
+          "y": 8100
+        },
+        {
+          "x": 9450,
+          "y": 5350
+        },
+        {
+          "x": 6150,
+          "y": 5350
+        }
+      ]
+    },
+    {
+      "id": "rm_rw952v9",
+      "label": "Room",
+      "points": [
+        {
+          "x": 2200,
+          "y": 12600
+        },
+        {
+          "x": 4400,
+          "y": 12600
+        },
+        {
+          "x": 4400,
+          "y": 9650
+        },
+        {
+          "x": 2200,
+          "y": 9650
+        }
+      ]
+    },
+    {
+      "id": "rm_30yccsi",
+      "label": "Room",
+      "points": [
+        {
+          "x": 4500,
+          "y": 13700
+        },
+        {
+          "x": 8250,
+          "y": 13700
+        },
+        {
+          "x": 8250,
+          "y": 9650
+        },
+        {
+          "x": 4500,
+          "y": 9650
+        }
+      ]
+    },
+    {
+      "id": "rm_cfp9cxm",
+      "label": "Room",
+      "points": [
+        {
+          "x": 2200,
+          "y": 14950
+        },
+        {
+          "x": 4400,
+          "y": 14950
+        },
+        {
+          "x": 4400,
+          "y": 12700
+        },
+        {
+          "x": 2200,
+          "y": 12700
+        }
+      ]
+    },
+    {
+      "id": "rm_1esylc2",
+      "label": "Room",
+      "points": [
+        {
+          "x": 900,
+          "y": 14950
+        },
+        {
+          "x": 2100,
+          "y": 14950
+        },
+        {
+          "x": 2100,
+          "y": 13700
+        },
+        {
+          "x": 900,
+          "y": 13700
+        }
+      ]
+    },
+    {
+      "id": "rm_w7b3jai",
+      "label": "Room",
+      "points": [
+        {
+          "x": 7500,
+          "y": 9550
+        },
+        {
+          "x": 9450,
+          "y": 9550
+        },
+        {
+          "x": 9450,
+          "y": 8200
+        },
+        {
+          "x": 7500,
+          "y": 8200
+        }
+      ]
+    },
+    {
+      "id": "rm_x2cvvst",
+      "label": "Room",
+      "points": [
+        {
+          "x": 2400,
+          "y": 9550
+        },
+        {
+          "x": 3450,
+          "y": 9550
+        },
+        {
+          "x": 3450,
+          "y": 8400
+        },
+        {
+          "x": 2400,
+          "y": 8400
+        }
+      ]
+    },
+    {
+      "id": "rm_6j79rel",
+      "label": "Room",
+      "points": [
+        {
+          "x": 2300,
+          "y": 9550
+        },
+        {
+          "x": 900,
+          "y": 9550
+        },
+        {
+          "x": 900,
+          "y": 8400
+        },
+        {
+          "x": 2300,
+          "y": 8400
+        }
+      ]
+    },
+    {
+      "id": "rm_q3nizsn",
+      "label": "Room",
+      "points": [
+        {
+          "x": 900,
+          "y": 8300
+        },
+        {
+          "x": 3450,
+          "y": 8300
+        },
+        {
+          "x": 3450,
+          "y": 5350
+        },
+        {
+          "x": 900,
+          "y": 5350
+        }
+      ]
+    },
+    {
+      "id": "rm_160k2uc",
+      "label": "Room",
+      "points": [
+        {
+          "x": 3559.466552734375,
+          "y": 5954.6435546875
+        },
+        {
+          "x": 6024.4049072265625,
+          "y": 5954.6435546875
+        },
+        {
+          "x": 6024.4049072265625,
+          "y": 5228.98193359375
+        },
+        {
+          "x": 7022.5201416015625,
+          "y": 5228.98193359375
+        },
+        {
+          "x": 7022.5201416015625,
+          "y": 4746.851806640625
+        },
+        {
+          "x": 2656.3265991210938,
+          "y": 4746.851806640625
+        },
+        {
+          "x": 2656.3265991210938,
+          "y": 5242.509765625
+        },
+        {
+          "x": 3550.9414672851562,
+          "y": 5242.509765625
+        }
+      ]
+    }
+  ],
+  "groups": [],
+  "modelId": "mdl_b446edcaf7"
+}

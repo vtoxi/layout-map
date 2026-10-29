@@ -1,0 +1,133 @@
+{
+  "id": "outdoor",
+  "label": "Outdoor",
+  "slug": "outdoor",
+  "items": [
+    {
+      "id": "patio_table",
+      "label": "Patio table",
+      "cat": "Outdoor",
+      "widthMm": 1200,
+      "depthMm": 1200,
+      "heightMm": 750,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "patio_table_rect",
+      "label": "Patio table rect",
+      "cat": "Outdoor",
+      "widthMm": 1800,
+      "depthMm": 1000,
+      "heightMm": 750,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "patio_chair",
+      "label": "Patio chair",
+      "cat": "Outdoor",
+      "widthMm": 600,
+      "depthMm": 650,
+      "heightMm": 900,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "patio_sofa",
+      "label": "Patio sofa",
+      "cat": "Outdoor",
+      "widthMm": 2000,
+      "depthMm": 850,
+      "heightMm": 850,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "patio_loveseat",
+      "label": "Patio loveseat",
+      "cat": "Outdoor",
+      "widthMm": 1400,
+      "depthMm": 800,
+      "heightMm": 850,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "lounge_chair_outdoor",
+      "label": "Outdoor lounge",
+      "cat": "Outdoor",
+      "widthMm": 700,
+      "depthMm": 1700,
+      "heightMm": 800,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "sun_lounger",
+      "label": "Sun lounger",
+      "cat": "Outdoor",
+      "widthMm": 700,
+      "depthMm": 2000,
+      "heightMm": 400,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "umbrella_base",
+      "label": "Umbrella + table",
+      "cat": "Outdoor",
+      "widthMm": 1000,
+      "depthMm": 1000,
+      "heightMm": 2300,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "bbq_grill",
+      "label": "BBQ grill",
+      "cat": "Outdoor",
+      "widthMm": 1400,
+      "depthMm": 700,
+      "heightMm": 1200,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "outdoor_bench",
+      "label": "Outdoor bench",
+      "cat": "Outdoor",
+      "widthMm": 1600,
+      "depthMm": 450,
+      "heightMm": 450,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "planter_box",
+      "label": "Planter box",
+      "cat": "Outdoor",
+      "widthMm": 1000,
+      "depthMm": 400,
+      "heightMm": 600,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "hammock_stand",
+      "label": "Hammock stand",
+      "cat": "Outdoor",
+      "widthMm": 3000,
+      "depthMm": 1200,
+      "heightMm": 1400,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "fire_pit",
+      "label": "Fire pit",
+      "cat": "Outdoor",
+      "widthMm": 900,
+      "depthMm": 900,
+      "heightMm": 500,
+      "color": "#6a7a68"
+    },
+    {
+      "id": "outdoor_storage",
+      "label": "Outdoor storage",
+      "cat": "Outdoor",
+      "widthMm": 1200,
+      "depthMm": 600,
+      "heightMm": 900,
+      "color": "#6a7a68"
+    }
+  ]
+}

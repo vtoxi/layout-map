@@ -1,0 +1,19 @@
+[Unit]
+Description=Apartment15 CAD / 3D map (openHAB companion)
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=openhab
+Group=openhab
+WorkingDirectory=/opt/apartment15
+EnvironmentFile=-/etc/apartment15.env
+ExecStart=/usr/bin/node /opt/apartment15/server.mjs
+Restart=always
+RestartSec=3
+# Allow binding if you later drop PORT below 1024 via authbind (not required for 8765)
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

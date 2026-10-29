@@ -1,0 +1,1867 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "storage",
+      "label": "Storage",
+      "slug": "storage",
+      "count": 51
+    },
+    {
+      "id": "sleep",
+      "label": "Sleep",
+      "slug": "sleep",
+      "count": 18
+    },
+    {
+      "id": "lounge",
+      "label": "Lounge",
+      "slug": "lounge",
+      "count": 28
+    },
+    {
+      "id": "tables",
+      "label": "Tables",
+      "slug": "tables",
+      "count": 30
+    },
+    {
+      "id": "seating",
+      "label": "Seating",
+      "slug": "seating",
+      "count": 20
+    },
+    {
+      "id": "kitchen",
+      "label": "Kitchen",
+      "slug": "kitchen",
+      "count": 29
+    },
+    {
+      "id": "bath",
+      "label": "Bath",
+      "slug": "bath",
+      "count": 20
+    },
+    {
+      "id": "window",
+      "label": "Window",
+      "slug": "window",
+      "count": 19
+    },
+    {
+      "id": "decor",
+      "label": "Decor",
+      "slug": "decor",
+      "count": 30
+    },
+    {
+      "id": "office",
+      "label": "Office",
+      "slug": "office",
+      "count": 14
+    },
+    {
+      "id": "outdoor",
+      "label": "Outdoor",
+      "slug": "outdoor",
+      "count": 14
+    },
+    {
+      "id": "kids",
+      "label": "Kids",
+      "slug": "kids",
+      "count": 12
+    },
+    {
+      "id": "lighting",
+      "label": "Lighting",
+      "slug": "lighting",
+      "count": 12
+    }
+  ],
+  "items": [
+    {
+      "id": "cabinet",
+      "label": "Kitchen cabinet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wardrobe",
+      "label": "Wardrobe",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "dresser",
+      "label": "Dresser",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "chest",
+      "label": "Chest of drawers",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf",
+      "label": "Bookshelf",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf_narrow",
+      "label": "Narrow shelf",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "nightstand",
+      "label": "Nightstand",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tvstand",
+      "label": "TV stand",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "sideboard",
+      "label": "Sideboard",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "shoe_rack",
+      "label": "Shoe cabinet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "filing",
+      "label": "Filing cabinet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_300",
+      "label": "Base cabinet 300mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_300",
+      "label": "Wall cabinet 300mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_450",
+      "label": "Base cabinet 450mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_450",
+      "label": "Wall cabinet 450mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_600",
+      "label": "Base cabinet 600mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_600",
+      "label": "Wall cabinet 600mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_750",
+      "label": "Base cabinet 750mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_750",
+      "label": "Wall cabinet 750mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_1050",
+      "label": "Base cabinet 1050mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_1050",
+      "label": "Wall cabinet 1050mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_1200",
+      "label": "Base cabinet 1200mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_1200",
+      "label": "Wall cabinet 1200mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_1500",
+      "label": "Base cabinet 1500mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_1500",
+      "label": "Wall cabinet 1500mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "cabinet_1800",
+      "label": "Base cabinet 1800mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wallcab_1800",
+      "label": "Wall cabinet 1800mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wardrobe_1200",
+      "label": "Wardrobe 1200mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wardrobe_1500",
+      "label": "Wardrobe 1500mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wardrobe_2000",
+      "label": "Wardrobe 2000mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wardrobe_2400",
+      "label": "Wardrobe 2400mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "dresser_600",
+      "label": "Dresser 600mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "dresser_1000",
+      "label": "Dresser 1000mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "dresser_1400",
+      "label": "Dresser 1400mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf_600",
+      "label": "Bookshelf 600mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf_800",
+      "label": "Bookshelf 800mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf_1200",
+      "label": "Bookshelf 1200mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bookshelf_1500",
+      "label": "Bookshelf 1500mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "nightstand_400",
+      "label": "Nightstand 400mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "nightstand_550",
+      "label": "Nightstand 550mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tvstand_1200",
+      "label": "TV stand 1200mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tvstand_1400",
+      "label": "TV stand 1400mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tvstand_1800",
+      "label": "TV stand 1800mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tvstand_2000",
+      "label": "TV stand 2000mm",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "tall_unit",
+      "label": "Tall pantry unit",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "corner_cabinet",
+      "label": "Corner cabinet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "linen_closet",
+      "label": "Linen closet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "media_console",
+      "label": "Media console",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "display_cabinet",
+      "label": "Display cabinet",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "wine_rack",
+      "label": "Wine rack",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "locker",
+      "label": "Locker / cubby",
+      "cat": "Storage",
+      "slug": "storage"
+    },
+    {
+      "id": "bed",
+      "label": "Bed (queen)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_single",
+      "label": "Bed (single)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_king",
+      "label": "Bed (king)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_twin",
+      "label": "Bed (twin)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "crib",
+      "label": "Crib",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_california",
+      "label": "Bed (California king)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_super_king",
+      "label": "Bed (super king)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_double",
+      "label": "Bed (double)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_platform",
+      "label": "Platform bed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_storage",
+      "label": "Storage bed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_canopy",
+      "label": "Canopy bed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_daybed",
+      "label": "Daybed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_bunk",
+      "label": "Bunk bed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_murphy",
+      "label": "Murphy bed",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bed_futon",
+      "label": "Futon",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "bassinet",
+      "label": "Bassinet",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "mattress_queen",
+      "label": "Mattress (queen)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "mattress_king",
+      "label": "Mattress (king)",
+      "cat": "Sleep",
+      "slug": "sleep"
+    },
+    {
+      "id": "sofa",
+      "label": "Sofa (3-seat)",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_loveseat",
+      "label": "Loveseat",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_sectional",
+      "label": "Sectional L",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_corner",
+      "label": "Corner sofa",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "chaise",
+      "label": "Chaise lounge",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "recliner",
+      "label": "Recliner",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "armchair",
+      "label": "Armchair",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "ottoman",
+      "label": "Ottoman",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_2seat",
+      "label": "Sofa (2-seat)",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_4seat",
+      "label": "Sofa (4-seat)",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_sleeper",
+      "label": "Sleeper sofa",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_chesterfield",
+      "label": "Chesterfield",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_midcentury",
+      "label": "Mid-century sofa",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_modular_3",
+      "label": "Modular sofa 3pc",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_u_shape",
+      "label": "U-shape sofa",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_chaise_left",
+      "label": "Sofa + chaise L",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "sofa_chaise_right",
+      "label": "Sofa + chaise R",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "armchair_700",
+      "label": "Armchair 700mm",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "armchair_900",
+      "label": "Armchair 900mm",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "armchair_1000",
+      "label": "Armchair 1000mm",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "accent_chair",
+      "label": "Accent chair",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "wingback",
+      "label": "Wingback chair",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "rocking_chair",
+      "label": "Rocking chair",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "bean_bag",
+      "label": "Bean bag",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "floor_cushion",
+      "label": "Floor cushion",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "pouf",
+      "label": "Pouf",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "ottoman_large",
+      "label": "Large ottoman",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "love_seat_modern",
+      "label": "Modern loveseat",
+      "cat": "Lounge",
+      "slug": "lounge"
+    },
+    {
+      "id": "coffee_table",
+      "label": "Coffee table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "side_table",
+      "label": "Side table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "nest_tables",
+      "label": "Nesting tables",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_table",
+      "label": "Dining table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "round_table",
+      "label": "Round table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "desk",
+      "label": "Desk",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "console",
+      "label": "Console table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "bar_table",
+      "label": "Bar / pub table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "kitchen_island",
+      "label": "Kitchen island",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_table_4",
+      "label": "Dining table (4)",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_table_6",
+      "label": "Dining table (6)",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_table_8",
+      "label": "Dining table (8)",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_table_10",
+      "label": "Dining table (10)",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_oval",
+      "label": "Oval dining table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "dining_square",
+      "label": "Square dining table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "coffee_table_round",
+      "label": "Round coffee table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "coffee_table_large",
+      "label": "Large coffee table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "coffee_table_glass",
+      "label": "Glass coffee table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "side_table_tall",
+      "label": "Tall side table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "side_table_drum",
+      "label": "Drum side table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "console_narrow",
+      "label": "Narrow console",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "console_wide",
+      "label": "Wide console",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "desk_compact",
+      "label": "Compact desk",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "desk_executive",
+      "label": "Executive desk",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "desk_l_shape",
+      "label": "L-shape desk",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "desk_standing",
+      "label": "Standing desk",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "bar_table_rect",
+      "label": "Bar table (rect)",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "picnic_table",
+      "label": "Picnic table",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "kitchen_island_small",
+      "label": "Kitchen island S",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "kitchen_island_large",
+      "label": "Kitchen island L",
+      "cat": "Tables",
+      "slug": "tables"
+    },
+    {
+      "id": "chair",
+      "label": "Side chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "dining_chair",
+      "label": "Dining chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "office_chair",
+      "label": "Office chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "bench",
+      "label": "Bench",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "barstool",
+      "label": "Bar stool",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "dining_chair_uphol",
+      "label": "Upholstered dining chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "dining_chair_metal",
+      "label": "Metal dining chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "side_chair_wood",
+      "label": "Wood side chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "guest_chair",
+      "label": "Guest chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "task_chair",
+      "label": "Task chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "gaming_chair",
+      "label": "Gaming chair",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "stool_counter",
+      "label": "Counter stool",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "stool_backless",
+      "label": "Backless stool",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "bench_dining",
+      "label": "Dining bench",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "bench_entry",
+      "label": "Entry bench",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "bench_storage",
+      "label": "Storage bench",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "banquette",
+      "label": "Banquette",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "pew_bench",
+      "label": "Pew / long bench",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "barstool_350",
+      "label": "Bar stool 350mm",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "barstool_450",
+      "label": "Bar stool 450mm",
+      "cat": "Seating",
+      "slug": "seating"
+    },
+    {
+      "id": "fridge",
+      "label": "Refrigerator",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "stove",
+      "label": "Stove / range",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "sink",
+      "label": "Kitchen sink",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "washer",
+      "label": "Washer",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "dishwasher",
+      "label": "Dishwasher",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "microwave",
+      "label": "Microwave",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "range_hood",
+      "label": "Range hood",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "fridge_french",
+      "label": "French-door fridge",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "fridge_side",
+      "label": "Side-by-side fridge",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "fridge_under",
+      "label": "Under-counter fridge",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "freezer",
+      "label": "Freezer",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "stove_gas",
+      "label": "Gas range",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "stove_induction",
+      "label": "Induction range",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "cooktop",
+      "label": "Cooktop",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "oven_wall",
+      "label": "Wall oven",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "sink_double",
+      "label": "Double sink",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "sink_farm",
+      "label": "Farmhouse sink",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "sink_prep",
+      "label": "Prep sink",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "washer_front",
+      "label": "Front-load washer",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "dryer",
+      "label": "Dryer",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "washer_dryer_stack",
+      "label": "Stacked W/D",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "dishwasher_panel",
+      "label": "Panel dishwasher",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "microwave_over",
+      "label": "Over-range microwave",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "microwave_drawer",
+      "label": "Microwave drawer",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "range_hood_island",
+      "label": "Island range hood",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "range_hood_pro",
+      "label": "Pro range hood",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "trash_compactor",
+      "label": "Trash pull-out",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "wine_cooler",
+      "label": "Wine cooler",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "espresso_station",
+      "label": "Espresso station",
+      "cat": "Kitchen",
+      "slug": "kitchen"
+    },
+    {
+      "id": "bathtub",
+      "label": "Bathtub",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "toilet",
+      "label": "Toilet",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "vanity",
+      "label": "Bath vanity",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "shower",
+      "label": "Shower",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "bathtub_freestanding",
+      "label": "Freestanding tub",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "bathtub_corner",
+      "label": "Corner tub",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "bathtub_short",
+      "label": "Short tub",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "toilet_compact",
+      "label": "Compact toilet",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "toilet_wall",
+      "label": "Wall-hung toilet",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "bidet",
+      "label": "Bidet",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "vanity_single",
+      "label": "Single vanity",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "vanity_double",
+      "label": "Double vanity",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "vanity_floating",
+      "label": "Floating vanity",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "shower_corner",
+      "label": "Corner shower",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "shower_rect",
+      "label": "Rect shower",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "shower_walkin",
+      "label": "Walk-in shower",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "shower_steam",
+      "label": "Steam shower",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "bath_stool",
+      "label": "Bath stool",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "towel_rack_unit",
+      "label": "Towel cabinet",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "laundry_hamper",
+      "label": "Laundry hamper",
+      "cat": "Bath",
+      "slug": "bath"
+    },
+    {
+      "id": "curtain",
+      "label": "Curtain / blinds",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_sheer",
+      "label": "Sheer curtains",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_wide",
+      "label": "Wide drapes",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "blinds",
+      "label": "Window blinds",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_1200",
+      "label": "Curtain 1200mm",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_2000",
+      "label": "Curtain 2000mm",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_2400",
+      "label": "Curtain 2400mm",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_3200",
+      "label": "Curtain 3200mm",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_blackout",
+      "label": "Blackout drapes",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "curtain_linen",
+      "label": "Linen drapes",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "sheer_wide",
+      "label": "Wide sheers",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "roman_shade",
+      "label": "Roman shade",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "roman_wide",
+      "label": "Roman shade wide",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "vertical_blinds",
+      "label": "Vertical blinds",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "horizontal_blinds",
+      "label": "Horizontal blinds",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "venetian_blinds",
+      "label": "Venetian blinds",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "panel_track",
+      "label": "Panel track",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "roller_shade",
+      "label": "Roller shade",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "cellular_shade",
+      "label": "Cellular shade",
+      "cat": "Window",
+      "slug": "window"
+    },
+    {
+      "id": "rug",
+      "label": "Rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "runner",
+      "label": "Runner rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "plant",
+      "label": "Plant",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "mirror",
+      "label": "Mirror",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "floor_lamp",
+      "label": "Floor lamp",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "tv",
+      "label": "TV / screen",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "wall_art",
+      "label": "Wall art",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "rug_small",
+      "label": "Small rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "rug_large",
+      "label": "Large rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "rug_round",
+      "label": "Round rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "rug_persian",
+      "label": "Persian rug",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "runner_long",
+      "label": "Long runner",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "plant_tall",
+      "label": "Tall plant",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "plant_small",
+      "label": "Small plant",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "plant_wide",
+      "label": "Wide planter",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "mirror_full",
+      "label": "Full-length mirror",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "mirror_round",
+      "label": "Round mirror",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "mirror_wide",
+      "label": "Wide mirror",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "tv_55",
+      "label": "TV 55\"",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "tv_65",
+      "label": "TV 65\"",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "tv_75",
+      "label": "TV 75\"",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "tv_stand_mount",
+      "label": "TV on stand",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "wall_art_large",
+      "label": "Large wall art",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "wall_art_diptych",
+      "label": "Diptych art",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "wall_art_small",
+      "label": "Small wall art",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "sculpture",
+      "label": "Sculpture",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "vase_tall",
+      "label": "Tall vase",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "fireplace",
+      "label": "Fireplace",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "piano",
+      "label": "Upright piano",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "bookshelf_low",
+      "label": "Low bookcase",
+      "cat": "Decor",
+      "slug": "decor"
+    },
+    {
+      "id": "desk_office",
+      "label": "Office desk",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "desk_reception",
+      "label": "Reception desk",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "credenza",
+      "label": "Credenza",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "filing_lateral",
+      "label": "Lateral file",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "filing_2drawer",
+      "label": "2-drawer file",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "bookshelf_office",
+      "label": "Office bookshelf",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "conference_table_6",
+      "label": "Conference table 6",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "conference_table_10",
+      "label": "Conference table 10",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "whiteboard",
+      "label": "Whiteboard",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "printer_stand",
+      "label": "Printer stand",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "mail_slot",
+      "label": "Mail / cubby unit",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "partition",
+      "label": "Office partition",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "locker_bank",
+      "label": "Locker bank",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "drafting_table",
+      "label": "Drafting table",
+      "cat": "Office",
+      "slug": "office"
+    },
+    {
+      "id": "patio_table",
+      "label": "Patio table",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "patio_table_rect",
+      "label": "Patio table rect",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "patio_chair",
+      "label": "Patio chair",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "patio_sofa",
+      "label": "Patio sofa",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "patio_loveseat",
+      "label": "Patio loveseat",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "lounge_chair_outdoor",
+      "label": "Outdoor lounge",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "sun_lounger",
+      "label": "Sun lounger",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "umbrella_base",
+      "label": "Umbrella + table",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "bbq_grill",
+      "label": "BBQ grill",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "outdoor_bench",
+      "label": "Outdoor bench",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "planter_box",
+      "label": "Planter box",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "hammock_stand",
+      "label": "Hammock stand",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "fire_pit",
+      "label": "Fire pit",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "outdoor_storage",
+      "label": "Outdoor storage",
+      "cat": "Outdoor",
+      "slug": "outdoor"
+    },
+    {
+      "id": "kids_bed",
+      "label": "Kids bed",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "kids_bunk",
+      "label": "Kids bunk",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "toddler_bed",
+      "label": "Toddler bed",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "changing_table",
+      "label": "Changing table",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "kids_desk",
+      "label": "Kids desk",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "kids_chair",
+      "label": "Kids chair",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "toy_chest",
+      "label": "Toy chest",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "kids_bookshelf",
+      "label": "Kids bookshelf",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "play_table",
+      "label": "Play table",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "teepee",
+      "label": "Play teepee",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "kids_wardrobe",
+      "label": "Kids wardrobe",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "rocking_horse",
+      "label": "Rocking horse",
+      "cat": "Kids",
+      "slug": "kids"
+    },
+    {
+      "id": "floor_lamp_arc",
+      "label": "Arc floor lamp",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "floor_lamp_tripod",
+      "label": "Tripod floor lamp",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "floor_lamp_torch",
+      "label": "Torchiere",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "table_lamp",
+      "label": "Table lamp",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "table_lamp_large",
+      "label": "Large table lamp",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "desk_lamp",
+      "label": "Desk lamp",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "pendant_furnish",
+      "label": "Pendant (place)",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "chandelier_furnish",
+      "label": "Chandelier (place)",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "wall_sconce_furnish",
+      "label": "Wall sconce",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "lantern",
+      "label": "Lantern",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "candle_stand",
+      "label": "Candle stand",
+      "cat": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": "strip_light_stand",
+      "label": "Light stand",
+      "cat": "Lighting",
+      "slug": "lighting"
+    }
+  ]
+}

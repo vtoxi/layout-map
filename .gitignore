@@ -1,0 +1,11 @@
+models/
+assets/
+data/
+.deploy.env
+deploy/pi/apartment15.env
+deploy/pi/tuya.env
+.DS_Store
+.env
+*.env
+!*.env.example
+node_modules/
